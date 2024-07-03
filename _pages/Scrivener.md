@@ -40,15 +40,10 @@ In a traditional word processor, your book would be composed of one big, long te
 Let’s take a closer look:
 
 
-<img align="left" width="70%" src="\assets\images\Scriv tut\image3.png" alt="My Image" style="padding-right: 10px;">
+<img align="left" width="50%" src="\assets\images\Scriv tut\image3.png" alt="My Image" style="padding-right: 10px;">
 
 <p style="font-size:14pt; "> <em> Folders are distinguishable from documents by their blue icons and <b>bolded</b> text. </em></p>
 
-
-
-![alt_text](\assets\images\Scriv tut\image3.png "image_tooltip")
-
-<p style="font-size:14pt; "> <em> Folders are distinguishable from documents by their blue icons and <b>bolded</b> text. </em></p>
 
 <p> At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have downwards arrows next to them. This indicates that they are folders with items inside them. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.” </p>
 
