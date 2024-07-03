@@ -90,6 +90,12 @@ If each chapter is a folder containing multiple scenes, don’t worry about this
 If your chapters will be titled, you can name each appropriate folder or document (whatever unit represents a chapter within your hierarchy) with its intended chapter title. Otherwise, you can call them anything you want. You can also have a setup where your chapter folders are titled, and your scenes are named descriptively, as shown below:
 
 
+<img align="left" width="50%" src="\assets\images\Scriv tut\image7.png" alt="My Image" style="padding-right: 10px;">
+
+<p style="font-size:14pt; "> <em> In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit. </em></p>
+
+
+
 ![alt_text](\assets\images\Scriv tut\image7.png "image_tooltip")
 
 <p style="font-size:14pt; "> <em> In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit. </em></p>
@@ -145,7 +151,7 @@ This layout for “Scene” will show only the text contained within the corresp
 There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters are not titled.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. 
 
 
-<img align="left" width="50%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
+<img align="left" width="60%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
 
 <br>
 
