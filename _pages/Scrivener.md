@@ -59,11 +59,6 @@ It’s all up to you, and you have total freedom to rearrange things as you plea
 <p style="font-size:14pt; "> <em> You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left. </em></p>
 
 
-
-
-![alt_text](\assets\images\Scriv tut\image4.png "image_tooltip")
-<p style="font-size:14pt; "> <em> You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left. </em></p>
-
 <p> Take a moment to set things up in whatever structure you like best. Some examples are below: </p>
 
 
