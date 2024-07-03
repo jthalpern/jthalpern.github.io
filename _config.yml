@@ -62,8 +62,8 @@ plugins:
 
 author:
   name   : "Jordan Halpern"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/bio-photo.jpeg"
+  bio    : "This is the home of Jordan Halpern's technical writing portfolio."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
