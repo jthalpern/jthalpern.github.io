@@ -40,12 +40,7 @@ In a traditional word processor, your book would be composed of one big, long te
 Let’s take a closer look:
 
 
-{% include figure image_path="\assets\images\Scriv tut\image3.png" alt="Manuscript section of binder" caption="_Folders are distinguishable from documents by their blue icons and **bolded **text._" %}
-
-
 ![alt_text](\assets\images\Scriv tut\image3.png "image_tooltip")
-
-
 _Folders are distinguishable from documents by their blue icons and **bolded **text._
 
 At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have downwards arrows next to them. This indicates that they are folders with items inside them. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.”
@@ -57,12 +52,7 @@ However, the options are endless. If you had selected “Novel (with parts)” a
 It’s all up to you, and you have total freedom to rearrange things as you please at any time.
 
 
-{% include figure image_path="\assets\images\Scriv tut\image4.png" alt="New document and folder buttons" caption="_You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left._" %}
-
-
 ![alt_text](\assets\images\Scriv tut\image4.png "image_tooltip")
-
-
 _You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left._
 
 Take a moment to set things up in whatever structure you like best. Some examples are below:
@@ -98,8 +88,6 @@ If your chapters will be titled, you can name each appropriate folder or documen
 
 
 ![alt_text](\assets\images\Scriv tut\image7.png "image_tooltip")
-
-
 _In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit._
 
 When you export your finished manuscript, you’ll be able to control whether the names you give your folders and documents will be included in the final product.
