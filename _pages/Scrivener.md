@@ -133,7 +133,7 @@ Scrolling through this section shows how each element (chapter, scene, etc.) in 
 Let’s take a look at the “Vellum Export” format. The default options are slightly different from “Modern,” but the principles are the same.
 
 
-<img align="left" width="50%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;">
+<img align="left" width="60%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;">
 
 <p style="font-size:14pt; "> <em> This layout for “Chapter Heading” will automatically number your chapters in the format shown, with the name of the corresponding binder item below it as the chapter title.
 <br>
