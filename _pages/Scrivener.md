@@ -147,16 +147,6 @@ There’s a good chance you’ll be happy with the defaults, but you may want to
 <div style="font-size:12pt; "> <em> Choosing the highlighted layout will create chapter headings that display only the chapter number, without a chapter title. </em></div>
 
 
-
-
-![alt_text](\assets\images\Scriv tut\image10.png "image_tooltip")
-
-
-_Choosing the highlighted layout will create chapter headings that display only the chapter number, without a chapter title._
-
-_Note that when your manuscript is compiled, “Section Title” will be replaced with whatever you named the corresponding item in your binder. _
-
-
 ### Final Step (Atticus only)
 
 If you will be formatting your manuscript in Vellum, your work is already done. You can compile your manuscript and send the .docx file to the next stage. If, however, you will be formatting in Atticus, there is one more step you need to take.
