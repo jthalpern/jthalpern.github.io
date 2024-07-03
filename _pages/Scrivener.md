@@ -57,6 +57,9 @@ However, the options are endless. If you had selected “Novel (with parts)” a
 It’s all up to you, and you have total freedom to rearrange things as you please at any time.
 
 
+{% include figure image_path="\assets\images\Scriv tut\image4.png" alt="New document and folder buttons" caption="_You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left._" %}
+
+
 ![alt_text](\assets\images\Scriv tut\image4.png "image_tooltip")
 
 
