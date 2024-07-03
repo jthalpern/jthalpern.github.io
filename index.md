@@ -1,13 +1,10 @@
 ---
 title: "Portfolio"
 excerpt: "Jordan Halpern's portfolio."
-header:
-  image: /assets/images/bio-photo.jpeg
-  teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
-  - title: "Role"
-    image: /assets/images/BINDER 2.jpeg
-    image_alt: "logo"
+  - title: "Jordan Halpern"
+    image: /assets/images/bio-photo.jpeg
+    image_alt: "Headshot"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
