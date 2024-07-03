@@ -42,7 +42,7 @@ Let’s take a closer look:
 
 ![alt_text](\assets\images\Scriv tut\image3.png "image_tooltip")
 
-_Folders are distinguishable from documents by their blue icons and **bolded **text._
+<div style="font-size:14pt; "> <em> Folders are distinguishable from documents by their blue icons and **bolded** text. </em></div>
 
 At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have downwards arrows next to them. This indicates that they are folders with items inside them. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.”
 
@@ -55,7 +55,7 @@ It’s all up to you, and you have total freedom to rearrange things as you plea
 
 ![alt_text](\assets\images\Scriv tut\image4.png "image_tooltip")
 
-_You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left._
+<div style="font-size:14pt; "> <em> You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left. </em></div>
 
 Take a moment to set things up in whatever structure you like best. Some examples are below:
 
@@ -91,7 +91,7 @@ If your chapters will be titled, you can name each appropriate folder or documen
 
 ![alt_text](\assets\images\Scriv tut\image7.png "image_tooltip")
 
-_In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit._
+<div style="font-size:14pt; "> <em> In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit. </em></div>
 
 When you export your finished manuscript, you’ll be able to control whether the names you give your folders and documents will be included in the final product.
 
@@ -142,11 +142,12 @@ This layout for “Scene” will show only the text contained within the corresp
 
 
 <br>
-<p> There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters are not titled.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. </p>
+There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters are not titled.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. 
 
 
 <img align="left" width="50%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
 
+<br>
 <br>
 <br>
 <div style="font-size:14pt; "> <em> Choosing the highlighted layout will create chapter headings that display only the chapter number, without a chapter title. </em></div>
