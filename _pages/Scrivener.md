@@ -43,9 +43,8 @@ Let’s take a closer look:
 ![alt_text](\assets\images\Scriv tut\image3.png "image_tooltip")
 
 <div style="font-size:14pt; "> <em> Folders are distinguishable from documents by their blue icons and **bolded** text. </em></div>
-<br>
 
-At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have downwards arrows next to them. This indicates that they are folders with items inside them. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.”
+<p> At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have downwards arrows next to them. This indicates that they are folders with items inside them. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.” </p>
 
 This hierarchy is the basic way you will organize your book, and it is highly customizable. The default setup suggests a folder for each chapter, with documents inside for each scene (or section if you’re writing nonfiction). To start a second chapter, you would simply create a second folder, which would contain its own documents.
 
@@ -57,9 +56,8 @@ It’s all up to you, and you have total freedom to rearrange things as you plea
 ![alt_text](\assets\images\Scriv tut\image4.png "image_tooltip")
 
 <div style="font-size:14pt; "> <em> You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left. </em></div>
-<br>
 
-Take a moment to set things up in whatever structure you like best. Some examples are below:
+<p> Take a moment to set things up in whatever structure you like best. Some examples are below: </p>
 
 
 |![](\assets\images\Scriv tut\image5a.png)|![](\assets\images\Scriv tut\image5b.png)|![](\assets\images\Scriv tut\image5c.png)|
@@ -95,7 +93,7 @@ If your chapters will be titled, you can name each appropriate folder or documen
 
 <div style="font-size:14pt; "> <em> In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit. </em></div>
 
-When you export your finished manuscript, you’ll be able to control whether the names you give your folders and documents will be included in the final product.
+<p> When you export your finished manuscript, you’ll be able to control whether the names you give your folders and documents will be included in the final product. </p>
 
 
 ## Exporting
