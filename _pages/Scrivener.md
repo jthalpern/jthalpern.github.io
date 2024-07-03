@@ -137,7 +137,6 @@ Let’s take a look at the “Vellum Export” format. The default options are s
 <div style="font-size:14pt; "> <em> This layout for “Chapter Heading” will automatically number your chapters in the format shown, with the name of the corresponding binder item below it as the chapter title.
 <br>
 <br>
-<br>
 This layout for “Scene” will show only the text contained within the corresponding document, without a heading. </em></div>
 
 
