@@ -169,8 +169,13 @@ Remember scene breaks? If you’re organizing your binder as shown in ***example
 <img align="left" width="49%" src="\assets\images\Scriv tut\image11a.png" alt="My Image">
 <img align="right" width="49%" src="\assets\images\Scriv tut\image11b.png" alt="My Image">
 
-  
-<p> But if your binder is organized like ***example B***, where a chapter-folder contains multiple document-scenes, you need the compiler to insert those three asterisks for you. This is necessary because when you import into Atticus, the program will rely on these scene breaks to parse your manuscript correctly. </p>
+
+<br>
+<br>
+<br>
+<br>
+
+But if your binder is organized like ***example B***, where a chapter-folder contains multiple document-scenes, you need the compiler to insert those three asterisks for you. This is necessary because when you import into Atticus, the program will rely on these scene breaks to parse your manuscript correctly. 
 
 To accomplish this, right-click on the “Modern” format in the compiler window and select “Duplicate & Edit Format.”
 
