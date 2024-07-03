@@ -150,14 +150,10 @@ There’s a good chance you’ll be happy with the defaults, but you may want to
 <img align="left" width="50%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
 
 <br>
-<br>
-<br>
+
 <div style="font-size:14pt; "> <em> Choosing the highlighted layout will create chapter headings that display only the chapter number, without a chapter title. </em></div>
 
 
-<br>
-<br>
-<br>
 <br>
 <br>
 
