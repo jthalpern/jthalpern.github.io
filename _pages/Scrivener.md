@@ -39,6 +39,10 @@ In a traditional word processor, your book would be composed of one big, long te
 
 Let’s take a closer look:
 
+
+![alt_text](\assets\images\Scriv tut\image3.png "image_tooltip")
+
+
 _Folders are distinguishable from documents by their blue icons and **bolded **text._
 
 At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have downwards arrows next to them. This indicates that they are folders with items inside them. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.”
@@ -49,18 +53,22 @@ However, the options are endless. If you had selected “Novel (with parts)” a
 
 It’s all up to you, and you have total freedom to rearrange things as you please at any time.
 
+
+![alt_text](\assets\images\Scriv tut\image4.png "image_tooltip")
+
+
 _You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left._
 
 Take a moment to set things up in whatever structure you like best. Some examples are below:
 
 
-![alt_text](\assets\images\Scriv tut\image3.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image5a.png "image_tooltip")
 
 
-![alt_text](\assets\images\Scriv tut\image4.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image5b.png "image_tooltip")
 
 
-![alt_text](\assets\images\Scriv tut\image5.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image5c.png "image_tooltip")
 
 
 _      Chapters folders w/ parts	                Chapter folders                          Chapter documents_
@@ -88,6 +96,10 @@ If each chapter is a folder containing multiple scenes, don’t worry about this
 
 If your chapters will be titled, you can name each appropriate folder or document (whatever unit represents a chapter within your hierarchy) with its intended chapter title. Otherwise, you can call them anything you want. You can also have a setup where your chapter folders are titled, and your scenes are named descriptively, as shown below:
 
+
+![alt_text](\assets\images\Scriv tut\image7.png "image_tooltip")
+
+
 _In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit._
 
 When you export your finished manuscript, you’ll be able to control whether the names you give your folders and documents will be included in the final product.
@@ -100,7 +112,7 @@ Finishing your project in Scrivener is a little more complicated than in a stand
 Open the compiler by pressing Ctrl+Shift+E.
 
 
-![alt_text](\assets\images\Scriv tut\image7.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image8.png "image_tooltip")
 
 
 First, at the top of the screen, make sure “Compile For:” is set to “Microsoft Word (.docx).” Scrivener can compile in other formats, but this is what you will want for most purposes.
@@ -128,11 +140,19 @@ Scrolling through this section shows how each element (chapter, scene, etc.) in 
 
 Let’s take a look at the “Vellum Export” format. The default options are slightly different from “Modern,” but the principles are the same.
 
+
+![alt_text](\assets\images\Scriv tut\image9.png "image_tooltip")
+
+
 _This layout for “Chapter Heading” will automatically number your chapters in the format shown, with the name of the corresponding binder item below it as the chapter title. _
 
 _This layout for “Scene” will show only the text contained within the corresponding document, without a heading._
 
 There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters are not titled.) To do that, click “Assign Section Layouts” at the bottom of the compiler window.
+
+
+![alt_text](\assets\images\Scriv tut\image10.png "image_tooltip")
+
 
 _Choosing the highlighted layout will create chapter headings that display only the chapter number, without a chapter title._
 
@@ -146,15 +166,19 @@ If you will be formatting your manuscript in Vellum, your work is already done. 
 Remember scene breaks? If you’re organizing your binder as shown in example A, you’ve been inserting them manually in the form of three asterisks. In that case, you can skip this step.
 
 
-![alt_text](\assets\images\Scriv tut\image8.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image11a.png "image_tooltip")
 
 
-![alt_text](\assets\images\Scriv tut\image9.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image11b.png "image_tooltip")
 
 
 But if your binder is organized like example B, where a chapter-folder contains multiple document-scenes, you need the compiler to insert those three asterisks for you. This is necessary because when you import into Atticus, the program will rely on these scene breaks to parse your manuscript correctly.
 
 To accomplish this, right-click on the “Modern” format in the compiler window and select “Duplicate & Edit Format.”
+
+
+![alt_text](\assets\images\Scriv tut\image12.png "image_tooltip")
+
 
 From the bar on the left, select “Separators,” then under Section Layouts, select “Section Text.” Finally, under “Separator between sections,” choose “Custom” from the dropdown menu and enter three asterisks for the custom text.
 
