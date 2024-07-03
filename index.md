@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Portfolio"
 excerpt: "Jordan Halpern's portfolio."
 sidebar:
