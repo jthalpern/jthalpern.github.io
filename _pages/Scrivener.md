@@ -4,6 +4,18 @@ layout: single
 permalink: /project1/
 author_profile: true
 toc: true
+
+
+feature_row:
+  - image_path: \assets\images\Scriv tut\image5a.png
+    alt: "Chapter folders w/ parts"
+    excerpt: "_Chapter folders w/ parts_"
+  - image_path: \assets\images\Scriv tut\image5b.png
+    alt: "Chapters folder"
+    excerpt: "_Chapter folders_"
+  - image_path: \assets\images\Scriv tut\image5c.png
+    alt: Chapter documents
+    excerpt: "_Chapter documents_"
 ---
 # Scrivener Quick-Start Guide for Novelists (Windows)
 
@@ -62,6 +74,9 @@ _You can move items in the binder by dragging them with your mouse. To create a 
 Take a moment to set things up in whatever structure you like best. Some examples are below:
 
 
+{% include feature_row %}
+
+
 ![alt_text](\assets\images\Scriv tut\image5a.png "image_tooltip")
 
 
@@ -71,7 +86,7 @@ Take a moment to set things up in whatever structure you like best. Some example
 ![alt_text](\assets\images\Scriv tut\image5c.png "image_tooltip")
 
 
-_      Chapters folders w/ parts	                Chapter folders                          Chapter documents_
+_      Chapter folders w/ parts	                Chapter folders                          Chapter documents_
 
 For now, feel free to ignore the other items in the binder (Characters, Places, etc.) These are resources you can use, but they are not a part of your book, and can be deleted if desired. Only documents contained within the “Manuscript” folder are included in your finished work. 
 
