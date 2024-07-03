@@ -160,14 +160,15 @@ This layout for “Scene” will show only the text contained within the corresp
 
 If you will be formatting your manuscript in Vellum, your work is already done. You can compile your manuscript and send the .docx file to the next stage. If, however, you will be formatting in Atticus, there is one more step you need to take.
 
-Remember scene breaks? If you’re organizing your binder as shown in example A, you’ve been inserting them manually in the form of three asterisks. In that case, you can skip this step.
+Remember scene breaks? If you’re organizing your binder as shown in ***example A***, you’ve been inserting them manually in the form of three asterisks. In that case, you can skip this step.
 
 
 <img align="left" width="50%" src="\assets\images\Scriv tut\image11a.png" alt="My Image">
 <img align="right" width="50%" src="\assets\images\Scriv tut\image11b.png" alt="My Image">
 
+<br>
 
-But if your binder is organized like example B, where a chapter-folder contains multiple document-scenes, you need the compiler to insert those three asterisks for you. This is necessary because when you import into Atticus, the program will rely on these scene breaks to parse your manuscript correctly.
+But if your binder is organized like ***example B***, where a chapter-folder contains multiple document-scenes, you need the compiler to insert those three asterisks for you. This is necessary because when you import into Atticus, the program will rely on these scene breaks to parse your manuscript correctly.
 
 To accomplish this, right-click on the “Modern” format in the compiler window and select “Duplicate & Edit Format.”
 
