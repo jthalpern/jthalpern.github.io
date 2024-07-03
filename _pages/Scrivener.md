@@ -135,15 +135,16 @@ Let’s take a look at the “Vellum Export” format. The default options are s
 <img align="left" width="50%" src="\assets\images\Scriv tut\image9.png" alt="My Image">
 
 <div style="font-size:12pt; "> <em> This layout for “Chapter Heading” will automatically number your chapters in the format shown, with the name of the corresponding binder item below it as the chapter title.
-
+<br>
+<br>
+<br>
 This layout for “Scene” will show only the text contained within the corresponding document, without a heading. </em></div>
 
 
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 <p> There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters are not titled.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. </p>
 
 
@@ -163,10 +164,6 @@ This layout for “Scene” will show only the text contained within the corresp
 If you will be formatting your manuscript in Vellum, your work is already done. You can compile your manuscript and send the .docx file to the next stage. If, however, you will be formatting in Atticus, there is one more step you need to take.
 
 Remember scene breaks? If you’re organizing your binder as shown in example A, you’ve been inserting them manually in the form of three asterisks. In that case, you can skip this step.
-
-
-|![](\assets\images\Scriv tut\image11a.png)|![](\assets\images\Scriv tut\image11b.png)|
-|:-:|:-:|
 
 
 ![alt_text](\assets\images\Scriv tut\image11a.png "image_tooltip")
