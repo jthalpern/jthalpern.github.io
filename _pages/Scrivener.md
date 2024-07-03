@@ -42,7 +42,7 @@ Let’s take a closer look:
 
 ![alt_text](\assets\images\Scriv tut\image3.png "image_tooltip")
 
-<div style="font-size:14pt; "> <em> Folders are distinguishable from documents by their blue icons and **bolded** text. </em></div>
+<p style="font-size:14pt; "> <em> Folders are distinguishable from documents by their blue icons and <b>bolded</b> text. </em></p>
 
 <p> At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have downwards arrows next to them. This indicates that they are folders with items inside them. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.” </p>
 
