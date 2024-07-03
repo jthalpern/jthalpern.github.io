@@ -134,17 +134,10 @@ Let’s take a look at the “Vellum Export” format. The default options are s
 
 <img align="left" width="50%" src="\assets\images\Scriv tut\image9.png" alt="My Image">
 
-<div style="font-size:12pt; "> _This layout for “Chapter Heading” will automatically number your chapters in the format shown, with the name of the corresponding binder item below it as the chapter title._
+<div style="font-size:12pt; "> <em>This layout for “Chapter Heading” will automatically number your chapters in the format shown, with the name of the corresponding binder item below it as the chapter title.
 
-_This layout for “Scene” will show only the text contained within the corresponding document, without a heading._</div>
+This layout for “Scene” will show only the text contained within the corresponding document, without a heading.</em><div>
 
-
-![alt_text](\assets\images\Scriv tut\image9.png "image_tooltip")
-
-
-_This layout for “Chapter Heading” will automatically number your chapters in the format shown, with the name of the corresponding binder item below it as the chapter title._
-
-_This layout for “Scene” will show only the text contained within the corresponding document, without a heading._
 
 There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters are not titled.) To do that, click “Assign Section Layouts” at the bottom of the compiler window.
 
