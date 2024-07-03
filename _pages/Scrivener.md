@@ -166,6 +166,11 @@ If you will be formatting your manuscript in Vellum, your work is already done. 
 Remember scene breaks? If you’re organizing your binder as shown in example A, you’ve been inserting them manually in the form of three asterisks. In that case, you can skip this step.
 
 
+<img align="left" width="50%" src="\assets\images\Scriv tut\image11a.png" alt="My Image">
+<img align="right" width="50%" src="\assets\images\Scriv tut\image11b.png" alt="My Image">
+
+
+
 ![alt_text](\assets\images\Scriv tut\image11a.png "image_tooltip")
 
 
