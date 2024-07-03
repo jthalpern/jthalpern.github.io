@@ -142,9 +142,6 @@ This layout for “Scene” will show only the text contained within the corresp
 
 
 <br>
-<br>
-<br>
-<br>
 <p> There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters are not titled.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. </p>
 
 
@@ -153,10 +150,10 @@ This layout for “Scene” will show only the text contained within the corresp
 <div style="font-size:12pt; "> <em> Choosing the highlighted layout will create chapter headings that display only the chapter number, without a chapter title. </em></div>
 
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 
 ### Final Step (Atticus only)
