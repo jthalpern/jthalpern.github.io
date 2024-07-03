@@ -21,21 +21,13 @@ Scrivener is a powerful software tool for writing a book. But with a host of com
 When you open Scrivener for the first time, it will bring up the New Project window. Go to the “Fiction” tab on the left, select “Novel,” and click “Create.”
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image1.png "image_tooltip")
 
 
 You will then be prompted to select a location on your computer to save your project. Pick somewhere you’ll remember, like a folder named “Scrivener projects.”
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image2.png "image_tooltip")
 
 
 When your new project opens, you’ll see a vertical bar on the left side of the screen. This is called the binder. 
@@ -62,23 +54,13 @@ _You can move items in the binder by dragging them with your mouse. To create a 
 Take a moment to set things up in whatever structure you like best. Some examples are below:
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image3.png "image_tooltip")
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](\assets\images\Scriv tut\image4.png "image_tooltip")
 
 
-![alt_text](images/image4.png "image_tooltip")
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image5.png "image_tooltip")
 
 
 _      Chapters folders w/ parts	                Chapter folders                          Chapter documents_
@@ -93,11 +75,7 @@ For now, feel free to ignore the other items in the binder (Characters, Places, 
 Now you’re ready to write! You’ll notice that when you select a document in the binder, the main area of the screen turns into a blank, white page. To start typing, all you have to do is click the center of the screen. You can also press F11 to enter “composition mode,” which is a full-screen view of your document.
 
 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image6.png "image_tooltip")
 
 
 You can change the font settings, but it’s unnecessary. You’re producing a manuscript, not a finished product. All the fancy formatting will take place later, in a different program. At this stage, restrict your formatting to italicizing words and styling any headings as “Heading 2”.
@@ -122,11 +100,7 @@ Finishing your project in Scrivener is a little more complicated than in a stand
 Open the compiler by pressing Ctrl+Shift+E.
 
 
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image7.png "image_tooltip")
 
 
 First, at the top of the screen, make sure “Compile For:” is set to “Microsoft Word (.docx).” Scrivener can compile in other formats, but this is what you will want for most purposes.
