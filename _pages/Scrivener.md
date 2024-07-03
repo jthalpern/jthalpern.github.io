@@ -90,15 +90,10 @@ If each chapter is a folder containing multiple scenes, don’t worry about this
 If your chapters will be titled, you can name each appropriate folder or document (whatever unit represents a chapter within your hierarchy) with its intended chapter title. Otherwise, you can call them anything you want. You can also have a setup where your chapter folders are titled, and your scenes are named descriptively, as shown below:
 
 
-<img align="left" width="50%" src="\assets\images\Scriv tut\image7.png" alt="My Image" style="padding-right: 10px;">
+<img align="left" width="55%" src="\assets\images\Scriv tut\image7.png" alt="My Image" style="padding-right: 10px;">
 
 <p style="font-size:14pt; "> <em> In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit. </em></p>
 
-
-
-![alt_text](\assets\images\Scriv tut\image7.png "image_tooltip")
-
-<p style="font-size:14pt; "> <em> In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit. </em></p>
 
 <p> When you export your finished manuscript, you’ll be able to control whether the names you give your folders and documents will be included in the final product. </p>
 
