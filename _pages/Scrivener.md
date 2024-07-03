@@ -54,6 +54,7 @@ It’s all up to you, and you have total freedom to rearrange things as you plea
 
 
 ![alt_text](\assets\images\Scriv tut\image4.png "image_tooltip")
+
 _You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left._
 
 Take a moment to set things up in whatever structure you like best. Some examples are below:
@@ -89,6 +90,7 @@ If your chapters will be titled, you can name each appropriate folder or documen
 
 
 ![alt_text](\assets\images\Scriv tut\image7.png "image_tooltip")
+
 _In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit._
 
 When you export your finished manuscript, you’ll be able to control whether the names you give your folders and documents will be included in the final product.
@@ -145,6 +147,13 @@ _This layout for “Chapter Heading” will automatically number your chapters i
 _This layout for “Scene” will show only the text contained within the corresponding document, without a heading._
 
 There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters are not titled.) To do that, click “Assign Section Layouts” at the bottom of the compiler window.
+
+
+<img align="left" width="50%" src="\assets\images\Scriv tut\image10.png" alt="My Image">
+
+_Choosing the highlighted layout will create chapter headings that display only the chapter number, without a chapter title._
+
+
 
 
 ![alt_text](\assets\images\Scriv tut\image10.png "image_tooltip")
