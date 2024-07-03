@@ -188,4 +188,4 @@ To accomplish this, right-click on the “Modern” format in the compiler windo
 
 From the bar on the left, select “Separators,” then under Section Layouts, select “Section Text.” Finally, under “Separator between sections,” choose “Custom” from the dropdown menu and enter three asterisks for the custom text.
 
-You are now ready to compile a.docx file that will import seamlessly into Atticus.
+You are now ready to compile a .docx file that will import seamlessly into Atticus.
