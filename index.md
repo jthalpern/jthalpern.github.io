@@ -2,6 +2,7 @@
 layout: single
 title: "Portfolio"
 excerpt: "Jordan Halpern's portfolio."
+author_profile: true
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
