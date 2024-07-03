@@ -7,7 +7,7 @@ toc: true
 
 
 feature_row:
-  - image_path: \assets\images\Scriv tut\image5a.png
+  - image_path: \assets\images\Scriv tut\image5aTEST.png
     alt: "Chapter folders w/ parts"
     excerpt: "_Chapter folders w/ parts_"
   - image_path: \assets\images\Scriv tut\image5b.png
