@@ -2,13 +2,6 @@
 layout: single
 title: "Portfolio"
 excerpt: "Jordan Halpern's portfolio."
-sidebar:
-  - title: "Jordan Halpern"
-    image: /assets/images/bio-photo.jpeg
-    image_alt: "Headshot"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
