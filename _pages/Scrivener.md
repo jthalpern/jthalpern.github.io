@@ -40,6 +40,9 @@ In a traditional word processor, your book would be composed of one big, long te
 Let’s take a closer look:
 
 
+{% include figure image_path="\assets\images\Scriv tut\image3.png" alt="Manuscript section of binder" caption="_Folders are distinguishable from documents by their blue icons and **bolded **text._" %}
+
+
 ![alt_text](\assets\images\Scriv tut\image3.png "image_tooltip")
 
 
@@ -64,19 +67,8 @@ Take a moment to set things up in whatever structure you like best. Some example
 
 |![](\assets\images\Scriv tut\image5a.png)|![](\assets\images\Scriv tut\image5b.png)|![](\assets\images\Scriv tut\image5c.png)|
 |:-:|:-:|:-:|
-|Chapter folders w/ parts|Chapter folders|Chapter documents|
+|_Chapter folders w/ parts_|_Chapter folders_|_Chapter documents_|
 
-
-![alt_text](\assets\images\Scriv tut\image5a.png "image_tooltip")
-
-
-![alt_text](\assets\images\Scriv tut\image5b.png "image_tooltip")
-
-
-![alt_text](\assets\images\Scriv tut\image5c.png "image_tooltip")
-
-
-_      Chapter folders w/ parts	                Chapter folders                          Chapter documents_
 
 For now, feel free to ignore the other items in the binder (Characters, Places, etc.) These are resources you can use, but they are not a part of your book, and can be deleted if desired. Only documents contained within the “Manuscript” folder are included in your finished work. 
 
