@@ -7,7 +7,7 @@ toc: true
 
 
 feature_row:
-  - image_path: \assets\images\Scriv tut\image5aTEST.png
+  - image_path: \assets\images\Scriv tut\image5a.png
     alt: "Chapter folders w/ parts"
     excerpt: "_Chapter folders w/ parts_"
   - image_path: \assets\images\Scriv tut\image5b.png
@@ -16,6 +16,15 @@ feature_row:
   - image_path: \assets\images\Scriv tut\image5c.png
     alt: Chapter documents
     excerpt: "_Chapter documents_"
+
+
+    gallery:
+  - image_path: \assets\images\Scriv tut\image5a.png
+    alt: "Chapter folders w/ parts"
+  - image_path: \assets\images\Scriv tut\image5b.png
+    alt: "Chapters folder"
+  - image_path: \assets\images\Scriv tut\image5c.png
+    alt: Chapter documents
 ---
 # Scrivener Quick-Start Guide for Novelists (Windows)
 
@@ -74,7 +83,7 @@ _You can move items in the binder by dragging them with your mouse. To create a 
 Take a moment to set things up in whatever structure you like best. Some examples are below:
 
 
-{% include feature_row %}
+{% include gallery %}
 
 
 ![alt_text](\assets\images\Scriv tut\image5a.png "image_tooltip")
