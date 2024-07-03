@@ -84,7 +84,10 @@ You can change the font settings, but it’s unnecessary. You’re producing a m
 
 The one thing you may need to consider is the matter of _scene breaks_. If your binder is structured so that a single document represents an entire chapter, each document/chapter might contain multiple scenes. These scenes must be separated by scene breaks. You can indicate a scene break by inserting three asterisks on their own line, like this:
 
+```
 ***
+```
+
 
 If each chapter is a folder containing multiple scenes, don’t worry about this. Scene breaks will be inserted automatically upon export.
 
