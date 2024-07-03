@@ -54,6 +54,13 @@ However, the options are endless. If you had selected “Novel (with parts)” a
 It’s all up to you, and you have total freedom to rearrange things as you please at any time.
 
 
+<img align="left" src="\assets\images\Scriv tut\image3.png" alt="My Image">
+
+<p style="font-size:14pt; "> <em> You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left. </em></p>
+
+
+
+
 ![alt_text](\assets\images\Scriv tut\image4.png "image_tooltip")
 <p style="font-size:14pt; "> <em> You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left. </em></p>
 
