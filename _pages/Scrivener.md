@@ -3,6 +3,7 @@ title: "Project #1"
 layout: single
 permalink: /project1/
 author_profile: true
+toc: true
 ---
 # Scrivener Quick-Start Guide for Novelists (Windows)
 
