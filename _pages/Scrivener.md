@@ -146,17 +146,10 @@ If you will be formatting your manuscript in Vellum, your work is already done. 
 Remember scene breaks? If you’re organizing your binder as shown in example A, you’ve been inserting them manually in the form of three asterisks. In that case, you can skip this step.
 
 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image8.png "image_tooltip")
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
+![alt_text](\assets\images\Scriv tut\image9.png "image_tooltip")
 
 
 But if your binder is organized like example B, where a chapter-folder contains multiple document-scenes, you need the compiler to insert those three asterisks for you. This is necessary because when you import into Atticus, the program will rely on these scene breaks to parse your manuscript correctly.
