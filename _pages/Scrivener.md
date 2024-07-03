@@ -175,6 +175,7 @@ Remember scene breaks? If you’re organizing your binder as shown in ***example
 
 <br>
 <br>
+<br>
 
 But if your binder is organized like ***example B***, where a chapter-folder contains multiple document-scenes, you need the compiler to insert those three asterisks for you. This is necessary because when you import into Atticus, the program will rely on these scene breaks to parse your manuscript correctly.
 
