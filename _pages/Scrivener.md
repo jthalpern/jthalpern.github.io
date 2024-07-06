@@ -21,6 +21,9 @@ Scrivener is a powerful software tool for writing a book. But with a host of com
 When you open Scrivener for the first time, it will bring up the New Project window. Go to the “Fiction” tab on the left, select “Novel,” and click “Create.”
 
 
+{% include figure image_path="\assets\images\Scriv tut\image1.png" alt="this is a placeholder image" %}
+
+
 ![alt_text](\assets\images\Scriv tut\image1.png "image_tooltip")
 
 
