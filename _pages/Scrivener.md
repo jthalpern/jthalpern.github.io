@@ -56,7 +56,7 @@ However, the options are endless. If you had selected “Novel (with parts)” a
 It’s all up to you, and you have total freedom to rearrange things as you please at any time.
 
 
-<img align="left" src="\assets\images\Scriv tut\image4.png" alt="My Image">
+<img align="left" src="\assets\images\Scriv tut\image4.png" alt="My Image" class="responsive">
 
 <p style="font-size:.875em; "> <em> You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left. </em></p>
 
