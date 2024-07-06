@@ -4,6 +4,24 @@ layout: single
 permalink: /project1/
 author_profile: true
 toc: true
+
+feature_row:
+    id: row1
+  - image_path: \assets\images\Scriv tut\image5a.png
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: \assets\images\Scriv tut\image5b.png
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: \assets\images\Scriv tut\image5c.png
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
 ---
 # Scrivener Quick-Start Guide for Novelists (Windows)
 
@@ -63,6 +81,9 @@ It’s all up to you, and you have total freedom to rearrange things as you plea
 
 
 <p> Take a moment to set things up in whatever structure you like best. Some examples are below: </p>
+
+
+{% include feature_row id="row1" %}
 
 
 |![](\assets\images\Scriv tut\image5a.png)|![](\assets\images\Scriv tut\image5b.png)|![](\assets\images\Scriv tut\image5c.png)|
