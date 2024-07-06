@@ -130,7 +130,7 @@ If you have folders dividing your book into parts, designate each part folder as
 
 ### Compile Formats
 
-On the left of the compiler window, you are asked to select a format, which is basically a style guide that governs how your manuscript is compiled. If you will be using the software Vellum to format your manuscript, select “Vellum Export.” If you will be formatting in Atticus, select “Modern.” 
+On the left of the compiler window, you are asked to select a format, which is basically a style guide that governs how your manuscript is compiled. If you will be using Vellum to format your manuscript, select “Vellum Export.” If you will be formatting in Atticus, select “Modern.” 
 
 
 ### Section Layouts
