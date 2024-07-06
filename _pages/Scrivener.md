@@ -6,10 +6,6 @@ author_profile: true
 toc: true
 ---
 
-.green {
-  color: green;
-}
-
 
 # Scrivener Quick-Start Guide for Novelists (Windows)
 
@@ -25,8 +21,6 @@ Scrivener is a powerful software tool for writing a book. But with a host of com
 ## Getting Started
 
 When you open Scrivener for the first time, it will bring up the New Project window. Go to the “Fiction” tab on the left, select “Novel,” and click “Create.”
-{: .green}
-
 
 
 ![alt_text](\assets\images\Scriv tut\image1.png "image_tooltip")
