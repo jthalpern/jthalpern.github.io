@@ -44,7 +44,7 @@ Let’s take a closer look:
 
 <img align="left" width="50%" src="\assets\images\Scriv tut\image3.png" alt="My Image" style="padding-right: 10px;">
 
-<p style="font-size:.875em;" align="center"> <em> Folders are distinguishable from documents by their blue icons and <b>bolded</b> text. </em></p>
+<p style="font-size:.875em;"> <em> Folders are distinguishable from documents by their blue icons and <b>bolded</b> text. </em></p>
 
 
 <p> At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have downwards arrows next to them. This indicates that they are folders with items inside them. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.” </p>
@@ -98,7 +98,7 @@ If your chapters will be titled, you can name each appropriate folder or documen
 
 <img align="left" width="55%" src="\assets\images\Scriv tut\image7.png" alt="My Image" style="padding-right: 10px;">
 
-<p style="font-size:.875em;" align="center"> <em> In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit. </em></p>
+<p style="font-size:.875em;"> <em> In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit. </em></p>
 
 
 <p> When you export your finished manuscript, you’ll be able to control whether the names you give your folders and documents will be included in the final product. </p>
@@ -154,7 +154,6 @@ There’s a good chance you’ll be happy with the defaults, but you may want to
 
 <img align="left" width="60%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
 
-<br>
 
 <p style="font-size:.875em; "> <em> Choosing the highlighted layout will create chapter headings that display only the chapter number, without a chapter title. </em></p>
 
