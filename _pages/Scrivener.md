@@ -42,9 +42,9 @@ In a traditional word processor, your book would be composed of one big, long te
 Let’s take a closer look:
 
 
-<img align="left" width="50%" src="\assets\images\Scriv tut\image3.png" alt="My Image" style="padding-right: 10px;" class="responsive">
+<img align="left" width="50%" src="\assets\images\Scriv tut\image3.png" alt="My Image" style="padding-right: 10px;">
 
-<p style="font-size:.875em; "> <em> Folders are distinguishable from documents by their blue icons and <b>bolded</b> text. </em></p>
+<p style="font-size:.875em;" align="right"> <em> Folders are distinguishable from documents by their blue icons and <b>bolded</b> text. </em></p>
 
 
 <p> At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have downwards arrows next to them. This indicates that they are folders with items inside them. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.” </p>
@@ -56,7 +56,7 @@ However, the options are endless. If you had selected “Novel (with parts)” a
 It’s all up to you, and you have total freedom to rearrange things as you please at any time.
 
 
-<img align="left" src="\assets\images\Scriv tut\image4.png" alt="My Image" class="responsive">
+<img align="left" src="\assets\images\Scriv tut\image4.png" alt="My Image">
 
 <p style="font-size:.875em; "> <em> You can move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left. </em></p>
 
@@ -96,9 +96,9 @@ If each chapter is a folder containing multiple scenes, don’t worry about this
 If your chapters will be titled, you can name each appropriate folder or document (whatever unit represents a chapter within your hierarchy) with its intended chapter title. Otherwise, you can call them anything you want. You can also have a setup where your chapter folders are titled, and your scenes are named descriptively, as shown below:
 
 
-<img align="left" width="55%" src="\assets\images\Scriv tut\image7.png" alt="My Image" style="padding-right: 10px;" class="responsive">
+<img align="left" width="55%" src="\assets\images\Scriv tut\image7.png" alt="My Image" style="padding-right: 10px;">
 
-<p style="font-size:.875em; "> <em> In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit. </em></p>
+<p style="font-size:.875em;" align="right"> <em> In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit. </em></p>
 
 
 <p> When you export your finished manuscript, you’ll be able to control whether the names you give your folders and documents will be included in the final product. </p>
@@ -140,7 +140,7 @@ Scrolling through this section shows how each element (chapter, scene, etc.) in 
 Let’s take a look at the “Vellum Export” format. The default options are slightly different from “Modern,” but the principles are the same.
 
 
-<img align="left" width="50%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;" class="responsive">
+<img align="left" width="50%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;">
 
 <p style="font-size:.875em; "> <em> This layout for “Chapter Heading” will automatically number your chapters in the format shown, with the name of the corresponding binder item below it as the chapter title.
 <br>
@@ -152,7 +152,7 @@ This layout for “Scene” will show only the text contained within the corresp
 There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters are not titled.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. 
 
 
-<img align="left" width="60%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;" class="responsive">
+<img align="left" width="60%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
 
 <br>
 
@@ -171,8 +171,8 @@ If you will be formatting your manuscript in Vellum, your work is already done. 
 Remember scene breaks? If you’re organizing your binder as shown in ***example A***, you’ve been inserting them manually in the form of three asterisks. In that case, you can skip this step.
 
 
-<img align="left" width="49%" src="\assets\images\Scriv tut\image11a.png" alt="My Image" class="responsive">
-<img align="right" width="49%" src="\assets\images\Scriv tut\image11b.png" alt="My Image" class="responsive">
+<img align="left" width="49%" src="\assets\images\Scriv tut\image11a.png" alt="My Image">
+<img align="right" width="49%" src="\assets\images\Scriv tut\image11b.png" alt="My Image">
 
 
 <br>
