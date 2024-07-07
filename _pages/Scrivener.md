@@ -153,17 +153,12 @@ This layout for “Scene” will show only the text contained within the corresp
 There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters do not have titles.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. 
 
 
-<img align="left" width="50%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
+<img align="left" width="100%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
 
 
-<p style="font-size:.875em; "> <em>Here, you can scroll through all the available layouts and pick the one that best suits your needs. Some layouts display only a heading, some only body text, and some display both. </em></p>
-
-<br>
-<br>
-
+Here, you can scroll through all the available layouts and pick the one that best suits your needs. Some layouts display only a heading, some only body text, and some display both. 
 
 Note that heading-only layouts are usually assigned to folders. If assigned to documents, the text inside will not be compiled.
-
 
 If you will be formatting your book in Vellum, then your work is already done. You can compile your manuscript and send the .docx file to the next stage. If, however, you will be formatting in Atticus, there is one more step you need to take.
 
