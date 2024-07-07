@@ -148,13 +148,9 @@ To understand how this works, let’s take a look at the default options for the
 <br>
 This layout for “Scene” will show only the text contained within the corresponding document, without a heading. </em></p>
 
-
-<br>
 There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters do not have titles.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. 
 
-
-<img align="left" width="100%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
-
+![alt_text](\assets\images\Scriv tut\image10.png "image_tooltip")
 
 Here, you can scroll through all the available layouts and pick the one that best suits your needs. Some layouts display only a heading, some only body text, and some display both. 
 
