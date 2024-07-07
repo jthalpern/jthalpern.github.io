@@ -1,7 +1,7 @@
 ---
-title: "Project #1"
+title: "Portfolio"
 layout: single
-permalink: /project1/
+permalink: /portfolio/
 author_profile: true
 toc: true
 ---
