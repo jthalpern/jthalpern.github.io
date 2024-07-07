@@ -155,6 +155,7 @@ There’s a good chance you’ll be happy with the defaults, but you may want to
 
 <img align="left" width="60%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
 
+<br>
 
 <p style="font-size:.875em; "> <em>Here, you can scroll through all the available layouts and pick the one that best suits your needs. Some layouts display only a heading, some only body text, and some display both. </em></p>
 
