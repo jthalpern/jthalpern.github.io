@@ -158,7 +158,9 @@ There’s a good chance you’ll be happy with the defaults, but you may want to
 
 Here, you can scroll through all the available layouts and pick the one that best suits your needs. Some layouts display only a heading, some only body text, and some display both. 
 
-Note that heading-only layouts are usually assigned to folders. If assigned to documents, the text inside will not be compiled.
+<br>
+
+**Note:** heading-only layouts are usually assigned to folders. If assigned to documents, the text inside will not be compiled.
 {: .notice--info}
 
 
