@@ -23,13 +23,13 @@ Scrivener is a powerful software tool for writing a book. But with a host of com
 When you open Scrivener for the first time, it will bring up the New Project window. Go to the “Fiction” tab on the left, select “Novel,” and click “Create.”
 
 
-![alt_text](\assets\images\Scriv tut\image1.png "image_tooltip")
+![Project templates](\assets\images\Scriv tut\image1.png)
 
 
 You will then be prompted to select a location on your computer to save your project. Pick somewhere you’ll remember, like a folder named “Scrivener projects.”
 
 
-![alt_text](\assets\images\Scriv tut\image2.png "image_tooltip")
+![The binder](\assets\images\Scriv tut\image2.png)
 
 
 When your new project opens, you’ll see a vertical bar on the left side of the screen. This is called the binder. 
@@ -42,7 +42,7 @@ In a traditional word processor, your book would be composed of one big, long te
 Let’s take a closer look:
 
 
-<img align="left" width="50%" src="\assets\images\Scriv tut\image3.png" alt="My Image" style="padding-right: 10px;">
+<img align="left" width="50%" src="\assets\images\Scriv tut\image3.png" alt="Manuscript" style="padding-right: 10px;">
 
 <p style="font-size:.875em;"> <em> Folders are distinguishable from documents by their blue icons and <b>bolded</b> text. </em></p>
 
@@ -57,7 +57,7 @@ It’s all up to you, and you have the freedom to rearrange things at any time.
 
 
 
-<img align="left" src="\assets\images\Scriv tut\image4.png" alt="My Image">
+<img align="left" src="\assets\images\Scriv tut\image4.png" alt="New document and folder buttons">
 
 <p style="font-size:.875em; "> <em> Move items in the binder by dragging them with your mouse. To create a new folder or document, use the buttons at the bottom-left. </em></p>
 
@@ -65,7 +65,7 @@ It’s all up to you, and you have the freedom to rearrange things at any time.
 <p> Take a moment to set things up in whatever structure you like best. Some examples are below: </p>
 
 
-|![](\assets\images\Scriv tut\image5a.png)|![](\assets\images\Scriv tut\image5b.png)|![](\assets\images\Scriv tut\image5c.png)|
+|![Chapter folders w/ parts](\assets\images\Scriv tut\image5a.png)|![Chapter folders](\assets\images\Scriv tut\image5b.png)|![Chapter documents](\assets\images\Scriv tut\image5c.png)|
 |:-:|:-:|:-:|
 |_Chapter folders w/ parts_|_Chapter folders_|_Chapter documents_|
 
@@ -80,7 +80,7 @@ For now, feel free to ignore the other items in the binder (Characters, Places, 
 Now you’re ready to write! You’ll notice that when you select a document in the binder, the main area of the screen turns into a blank, white page. To start typing, all you have to do is click the center of the screen. You can also press F11 to enter “composition mode,” which is a full-screen view of your document.
 
 
-![alt_text](\assets\images\Scriv tut\image6.png "image_tooltip")
+![This is where you write your book](\assets\images\Scriv tut\image6.png "image_tooltip")
 
 
 You can change the font settings, but it isn’t necessary. You’re producing a manuscript, not a finished product. All the fancy formatting will take place later, in a different program. At this stage, restrict your formatting to italicizing words and styling any headings as “Heading 2”.
@@ -97,7 +97,7 @@ If each chapter is a folder containing multiple scenes, don’t worry about this
 If your chapters will be titled, you can name each appropriate folder or document (whatever unit represents a chapter within your hierarchy) with its intended chapter title. Otherwise, you can call them anything you want. You can also have a setup where your chapter folders are titled, and your scenes are named descriptively, as shown below:
 
 
-<img align="left" width="55%" src="\assets\images\Scriv tut\image7.png" alt="My Image" style="padding-right: 10px;">
+<img align="left" width="55%" src="\assets\images\Scriv tut\image7.png" alt="Scenes named descriptively" style="padding-right: 10px;">
 
 <p style="font-size:.875em;"> <em> In this example, “The House in the Valley” is the name of a chapter, and the scenes within it are labeled purely for the author’s benefit. </em></p>
 
@@ -112,7 +112,7 @@ Finishing your project in Scrivener is a little more complicated than in a stand
 Open the compiler by pressing Ctrl+Shift+E.
 
 
-![alt_text](\assets\images\Scriv tut\image8.png "image_tooltip")
+![The compiler](\assets\images\Scriv tut\image8.png "image_tooltip")
 
 
 First, at the top of the screen, make sure “Compile For:” is set to “Microsoft Word (.docx).” Scrivener can compile other formats, but .docx is ideal for importing into formatting software.
@@ -141,7 +141,7 @@ In this area of the compiler, you assign a "layout" to each section type that de
 To understand how this works, let’s take a look at the default options for the “Vellum Export” format, shown in the image below.
 
 
-<img align="left" width="47%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;">
+<img align="left" width="47%" src="\assets\images\Scriv tut\image9.png" alt="Section layouts" style="padding-right: 10px;">
 
 <p style="font-size:.875em; "> <em> This Chapter Heading layout will automatically number your chapters in the format shown, with “Section Title” replaced by whatever you named the corresponding item in your binder.
 <br>
@@ -150,7 +150,7 @@ This Scene layout will show only the text contained within the corresponding doc
 
 There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters do not have titles.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. 
 
-![alt_text](\assets\images\Scriv tut\image10.png "image_tooltip")
+![Assign section layouts](\assets\images\Scriv tut\image10.png "image_tooltip")
 
 Here, you can scroll through all the available layouts and pick the one that best suits your needs. Some layouts display only a heading, some only body text, and some display both. 
 
@@ -164,8 +164,8 @@ If you will be formatting your book in Vellum, then your work is already done. Y
 Remember scene breaks? If you’re organizing your binder as shown in ***example A***, you’ve been inserting them manually in the form of three asterisks. In that case, you can skip this step.
 
 
-<img align="left" width="49%" src="\assets\images\Scriv tut\image11a.png" alt="My Image">
-<img align="right" width="49%" src="\assets\images\Scriv tut\image11b.png" alt="My Image">
+<img align="left" width="49%" src="\assets\images\Scriv tut\image11a.png" alt="Example A">
+<img align="right" width="49%" src="\assets\images\Scriv tut\image11b.png" alt="Example B">
 
 
 <br>
@@ -178,7 +178,7 @@ But if your binder is organized like ***example B***, where a chapter-folder con
 To accomplish this, right-click on the “Modern” format in the compiler window and select “Duplicate & Edit Format.”
 
 
-![alt_text](\assets\images\Scriv tut\image12.png "image_tooltip")
+![Duplicate & Edit Format](\assets\images\Scriv tut\image12.png "image_tooltip")
 
 
 From the bar on the left, select “Separators,” then under Section Layouts, select “Section Text.” Finally, under “Separator between sections,” choose “Custom” from the dropdown menu and enter three asterisks for the custom text.
