@@ -120,9 +120,9 @@ First, at the top of the screen, make sure “Compile For:” is set to “Micro
 
 ### Compile Options
 
-The first thing to pay attention to is “compile options,” highlighted in blue on the right. This is where you tell Scrivener how you organized your binder, so it knows the difference between a part, a chapter, and a scene.
+The first thing to pay attention to is the compile options on the right, highlighted in blue in the image above. This is where you tell Scrivener how you organized your binder, so it knows the difference between a part, a chapter, and a scene. You do this by designating a *section type* for each element.
 
-If every text document in your binder represents a separate chapter, designate each document as “Chapter.”
+If every text document in your binder represents a separate chapter, designate each document as the “Chapter” section type.
 
 If your chapters are folders with multiple documents inside, designate each chapter folder as “Chapter Heading” and each document as “Scene.”
 
@@ -136,37 +136,36 @@ On the left of the compiler window, you are asked to select a format, which is a
 
 ### Section Layouts
 
-Scrolling through this section shows how each element (chapter, scene, etc.) in your manuscript will be formatted. Only the elements you designate under “Compile Options” will be displayed. 
-
-Let’s take a look at the “Vellum Export” format. The default options are slightly different from “Modern,” but the principles are the same.
+In this area of the compiler, you assign a "layout" to each section type that determines its formatting. Let’s take a look at the default options for the “Vellum Export” format to break down how this works.
 
 
 <img align="left" width="50%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;">
 
-<p style="font-size:.875em; "> <em> This layout for “Chapter Heading” will automatically number your chapters in the format shown, with the name of the corresponding binder item below it as the chapter title.
+<p style="font-size:.875em; "> <em> This layout for Chapter Heading will automatically number your chapters in the format shown, with “Section Title” replaced by whatever you named the corresponding item in your binder.
 <br>
 <br>
 This layout for “Scene” will show only the text contained within the corresponding document, without a heading. </em></p>
 
 
 <br>
-There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters are not titled.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. 
+There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters do not have titles.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. 
 
 
 <img align="left" width="60%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
 
 
-<p style="font-size:.875em; "> <em> Choosing the highlighted layout will create chapter headings that display only the chapter number, without a chapter title. </em></p>
+<p style="font-size:.875em; "> 
+
+<em> Here, you can scroll through all the available layouts and pick the one that best suits your needs. Some layouts display only a heading, some only body text, and some both. 
+
+Note that heading-only layouts are usually assigned to folders. If assigned to documents, the text inside will not be compiled.
+ </em></p>
 
 
-<br>
-<br>
-<br>
+If you will be formatting your book in Vellum, your work is already done. You can compile your manuscript and send the .docx file to the next stage. If, however, you will be formatting in Atticus, there is one more step you need to take.
 
 
 ### Final Step (Atticus only)
-
-If you will be formatting your manuscript in Vellum, your work is already done. You can compile your manuscript and send the .docx file to the next stage. If, however, you will be formatting in Atticus, there is one more step you need to take.
 
 Remember scene breaks? If you’re organizing your binder as shown in ***example A***, you’ve been inserting them manually in the form of three asterisks. In that case, you can skip this step.
 
