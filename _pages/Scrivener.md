@@ -9,7 +9,7 @@ toc: true
 
 # Scrivener Quick-Start Guide for Novelists (Windows)
 
-Scrivener is a powerful software tool for writing a book. But with a host of complex features and a nearly 800-page user manual, using it for the first time can be intimidating. This guide is designed to get you started. It demonstrates:
+Scrivener is a powerful software tool for writing a book. But with a host of complex features and a nearly 800-page user manual, getting started as a new user can be overwhelming. This guide is designed to walk you through the basics. It demonstrates:
 
 
 
@@ -47,13 +47,13 @@ Let’s take a closer look:
 <p style="font-size:.875em;"> <em> Folders are distinguishable from documents by their blue icons and <b>bolded</b> text. </em></p>
 
 
-<p> At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have downwards arrows next to them. This indicates that they are folders with items inside them. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.” </p>
+At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have arrows next to them. This indicates that they are folders containing other items. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.”
 
-This hierarchy is the basic way you will organize your book, and it is highly customizable. The default setup suggests a folder for each chapter, with documents inside for each scene (or section if you’re writing nonfiction). To start a second chapter, you would simply create a second folder, which would contain its own documents.
+This hierarchy is the basic way you will organize your book, and it is highly customizable. The default setup suggests a folder for each chapter, with documents inside for each scene (you can think “section” instead of “scene” if you’re writing nonfiction). To start a second chapter, you simply create a second folder and place your Chapter Two documents inside it.
 
-However, the options are endless. If you had selected “Novel (with parts)” as your project template earlier, your “Chapter” folder would be contained within a “Part” folder. You can also avoid folders entirely, and simply have a document for each chapter inside of “Manuscript.” 
+That’s the most standard setup, but your options are infinite. For instance, if you had selected “Novel (with parts)” as your project template, your “Chapter” folder would be contained within a “Part” folder. You can also avoid folders entirely, and simply place a document for each chapter directly inside of “Manuscript.” 
+It’s all up to you, and you have the freedom to rearrange things at any time.
 
-It’s all up to you, and you have total freedom to rearrange things as you please at any time.
 
 
 <img align="left" src="\assets\images\Scriv tut\image4.png" alt="My Image">
