@@ -114,7 +114,7 @@ Open the compiler by pressing Ctrl+Shift+E.
 ![alt_text](\assets\images\Scriv tut\image8.png "image_tooltip")
 
 
-First, at the top of the screen, make sure “Compile For:” is set to “Microsoft Word (.docx).” Scrivener can compile in other formats, but this is what you will want for most purposes.
+First, at the top of the screen, make sure “Compile For:” is set to “Microsoft Word (.docx).” Scrivener can compile other formats, but .docx is ideal for importing into formatting software.
 
 
 ### Compile Options
