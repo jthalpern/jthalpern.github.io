@@ -164,7 +164,7 @@ Note that heading-only layouts are usually assigned to folders. If assigned to d
  </em></p>
 
 
-If you will be formatting your book in Vellum, your work is already done. You can compile your manuscript and send the .docx file to the next stage. If, however, you will be formatting in Atticus, there is one more step you need to take.
+If you will be formatting your book in Vellum, then your work is already done. You can compile your manuscript and send the .docx file to the next stage. If, however, you will be formatting in Atticus, there is one more step you need to take.
 
 
 ### Final Step (Atticus only)
