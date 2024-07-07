@@ -141,7 +141,7 @@ In this area of the compiler, you assign a "layout" to each section type that de
 Let’s take a look at the default options for the “Vellum Export” format to break down how this works.
 
 
-<img align="left" width="50%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;">
+<img align="left" width="45%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;">
 
 <p style="font-size:.875em; "> <em> This layout for Chapter Heading will automatically number your chapters in the format shown, with “Section Title” replaced by whatever you named the corresponding item in your binder.
 <br>
@@ -153,7 +153,7 @@ This layout for “Scene” will show only the text contained within the corresp
 There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters do not have titles.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. 
 
 
-<img align="left" width="100%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
+<img align="left" width="50%" src="\assets\images\Scriv tut\image10.png" alt="My Image" style="padding-right: 10px;">
 
 
 Here, you can scroll through all the available layouts and pick the one that best suits your needs. Some layouts display only a heading, some only body text, and some display both. 
