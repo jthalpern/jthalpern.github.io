@@ -136,7 +136,9 @@ On the left of the compiler window, you are asked to select a format, which is a
 
 ### Section Layouts
 
-In this area of the compiler, you assign a "layout" to each section type that determines its formatting. Let’s take a look at the default options for the “Vellum Export” format to break down how this works.
+In this area of the compiler, you assign a "layout" to each section type that determines its formatting. 
+
+Let’s take a look at the default options for the “Vellum Export” format to break down how this works.
 
 
 <img align="left" width="50%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;">
