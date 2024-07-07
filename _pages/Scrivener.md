@@ -83,9 +83,9 @@ Now you’re ready to write! You’ll notice that when you select a document in 
 ![alt_text](\assets\images\Scriv tut\image6.png "image_tooltip")
 
 
-You can change the font settings, but it’s unnecessary. You’re producing a manuscript, not a finished product. All the fancy formatting will take place later, in a different program. At this stage, restrict your formatting to italicizing words and styling any headings as “Heading 2”.
+You can change the font settings, but it isn’t necessary. You’re producing a manuscript, not a finished product. All the fancy formatting will take place later, in a different program. At this stage, restrict your formatting to italicizing words and styling any headings as “Heading 2”.
 
-The one thing you may need to consider is the matter of _scene breaks_. If your binder is structured so that a single document represents an entire chapter, each document/chapter might contain multiple scenes. These scenes must be separated by scene breaks. You can indicate a scene break by inserting three asterisks on their own line, like this:
+The one thing you may need to consider is the matter of *scene breaks*. If your binder is structured so that a single document represents an entire chapter, each document/chapter might contain multiple scenes. These scenes must be separated by scene breaks. You can indicate a scene break by inserting three asterisks on their own line, like this:
 
 ```
 ***
@@ -107,7 +107,7 @@ If your chapters will be titled, you can name each appropriate folder or documen
 
 ## Exporting
 
-Finishing your project in Scrivener is a little more complicated than in a standard word processor. In Scrivener, you need to export using something called the compiler. The compiler takes all the separate pieces of your manuscript and turns them into a single, complete document.
+Finishing your project in Scrivener is a little more complicated than in a standard word processor. In Scrivener, you need to export using something called the *compiler*. The compiler takes all the separate pieces of your manuscript and turns them into a single, complete document.
 
 Open the compiler by pressing Ctrl+Shift+E.
 
@@ -120,7 +120,7 @@ First, at the top of the screen, make sure “Compile For:” is set to “Micro
 
 ### Compile Options
 
-The first thing to pay attention to is “compile options,” highlighted in blue on the right. Basically, this is where you tell Scrivener how you organized your binder, so it knows the difference between a part, a chapter, and a scene.
+The first thing to pay attention to is “compile options,” highlighted in blue on the right. This is where you tell Scrivener how you organized your binder, so it knows the difference between a part, a chapter, and a scene.
 
 If every text document in your binder represents a separate chapter, designate each document as “Chapter.”
 
@@ -131,7 +131,7 @@ If you have folders dividing your book into parts, designate each part folder as
 
 ### Compile Formats
 
-On the left of the compiler window, you are asked to select a format, which is basically a style guide that governs how your manuscript is compiled. If you will be using Vellum to format your manuscript, select “Vellum Export.” If you will be formatting in Atticus, select “Modern.” 
+On the left of the compiler window, you are asked to select a format, which is a style guide that governs how your manuscript is compiled. If you will be using Vellum to format your manuscript, select “Vellum Export.” If you will be formatting in Atticus, select “Modern.” 
 
 
 ### Section Layouts
