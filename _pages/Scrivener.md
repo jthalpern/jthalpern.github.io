@@ -138,7 +138,7 @@ On the left of the compiler window, you are asked to select a format, which is a
 
 In this area of the compiler, you assign a "layout" to each section type that determines its formatting. 
 
-Let’s take a look at the default options for the “Vellum Export” format, shown in the image below.
+To understand how this works, let’s take a look at the default options for the “Vellum Export” format, shown in the image below.
 
 
 <img align="left" width="45%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;">
@@ -159,6 +159,7 @@ There’s a good chance you’ll be happy with the defaults, but you may want to
 Here, you can scroll through all the available layouts and pick the one that best suits your needs. Some layouts display only a heading, some only body text, and some display both. 
 
 Note that heading-only layouts are usually assigned to folders. If assigned to documents, the text inside will not be compiled.
+{: .notice--info}
 
 
 If you will be formatting your book in Vellum, then your work is already done. You can compile your manuscript and send the .docx file to the next stage. If, however, you will be formatting in Atticus, there is one more step you need to take.
