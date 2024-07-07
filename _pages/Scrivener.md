@@ -143,7 +143,7 @@ To understand how this works, let’s take a look at the default options for the
 
 <img align="left" width="47%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;">
 
-<p style="font-size:.875em; " align="justified"> <em> This Chapter Heading layout will automatically number your chapters in the format shown, with “Section Title” replaced by whatever you named the corresponding item in your binder.
+<p style="font-size:.875em; "> <em> This Chapter Heading layout will automatically number your chapters in the format shown, with “Section Title” replaced by whatever you named the corresponding item in your binder.
 <br>
 <br>
 This Scene layout will show only the text contained within the corresponding document, without a heading. </em></p>
