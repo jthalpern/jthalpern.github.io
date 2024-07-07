@@ -143,10 +143,10 @@ To understand how this works, let’s take a look at the default options for the
 
 <img align="left" width="47%" src="\assets\images\Scriv tut\image9.png" alt="My Image" style="padding-right: 10px;">
 
-<p style="font-size:.875em; "> <em> This layout for Chapter Heading will automatically number your chapters in the format shown, with “Section Title” replaced by whatever you named the corresponding item in your binder.
+<p style="font-size:.875em; "> <em> This Chapter Heading layout will automatically number your chapters in the format shown, with “Section Title” replaced by whatever you named the corresponding item in your binder.
 <br>
 <br>
-This layout for “Scene” will show only the text contained within the corresponding document, without a heading. </em></p>
+This Scene layout will show only the text contained within the corresponding document, without a heading. </em></p>
 
 There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters do not have titles.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. 
 
