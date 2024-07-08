@@ -66,7 +66,7 @@ author:
   bio    : "jordanthalpern@gmail.com"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-envelope-o"
       url: "mailto:jordanthalpern@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
