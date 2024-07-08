@@ -69,7 +69,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:jordanthalpern@gmail.com"
     - label: "LinkedIn"
-      icon: "fas fa-linkedin-square"
+      icon: "<i class="fab fa-linkedin-square" aria-hidden="true"></i>"
       url: "https://github.com/"
 
 footer:
