@@ -12,6 +12,8 @@ To that end, I've created a guide that walks the user through a basic workflow f
 
 The intended audience is independent authors who are tech-savvy enough to perform basic computer tasks like installing the program, but may otherwise be overwhelmed by Scrivener's complex features and interface.
 
+You can read the guide below, or if you prefer a PDF, you can download it **here.**
+
 # Scrivener Quick-Start Guide for Novelists (Windows)
 
 Scrivener is a powerful software tool for writing a book. But with a host of complex features and a nearly 800-page user manual, getting started as a new user can be overwhelming. This guide is designed to walk you through the basics. It demonstrates:
