@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Jordan Halpern"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "This is the home of Jordan Halpern's technical writing portfolio."
+  bio    : "jordanthalpern@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
