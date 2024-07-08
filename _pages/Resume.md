@@ -1,4 +1,5 @@
 ---
-permalink: /about/
-title: "About Me"
+permalink: /Resume/
+title: "Resume"
 ---
+Resume content to be added
