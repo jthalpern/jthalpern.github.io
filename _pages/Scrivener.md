@@ -6,9 +6,9 @@ author_profile: true
 toc: true
 ---
 
-Welcome to my portfolio! What I'm showcasing here is a quick-start guide for the book-writing software Scrivener. Scrivener is a unique program, combining word processing, outlining, and project management capabilities. It's incredibly powerful, and widely adopted by authors, but the learning curve can be steep for new users. 
+<p style="font-size:.875em;">Welcome to my portfolio! What I'm showcasing here is a quick-start guide for the book-writing software Scrivener. Scrivener is a unique program, combining word processing, outlining, and project management capabilities. It's incredibly powerful, and widely adopted by authors, but the learning curve can be steep for new users. </p>
 
-<p style="font-size:.875em;"><em>Goal:>/em> walk users through a basic workflow for writing and exporting a project. As most users will go on to format their book with other software, I've focused the guide on producing a .docx file compatible with the two most popular formatting programs, Vellum and Atticus. </p>
+<p style="font-size:.875em;"><em>Goal:</em> walk users through a basic workflow for writing and exporting a project. As most users will go on to format their book with other software, I've focused the guide on producing a .docx file compatible with the two most popular formatting programs, Vellum and Atticus. </p>
 
 <p style="font-size:.875em;"><em>Intended audience:</em> independent authors who are tech-savvy enough to perform basic computer tasks like installing the program, but may otherwise be overwhelmed by Scrivener's complex features and interface.</p>
 
