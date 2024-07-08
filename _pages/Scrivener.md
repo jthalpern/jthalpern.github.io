@@ -12,7 +12,9 @@ To that end, I've created a guide that walks the user through a basic workflow f
 
 The intended audience is independent authors who are tech-savvy enough to perform basic computer tasks like installing the program, but may otherwise be overwhelmed by Scrivener's complex features and interface.
 
-You can read the guide below, or if you prefer a PDF, you can download it **here.**
+You can scroll to read the guide below, or if you prefer a PDF, you can download it **here.**
+{: .notice--info}
+
 
 # Scrivener Quick-Start Guide for Novelists (Windows)
 
