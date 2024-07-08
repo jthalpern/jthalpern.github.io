@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
-title: "Jordan Halpern's Portfolio"
+title: "Jordan Halpern's Portfolio Site"
 subtitle: "Technical writing"
 site name: "Jordan Halpern"
 email: "jordanthalpern@gmail.com"
