@@ -2,7 +2,7 @@
 permalink: /resume/
 title: "Resume"
 ---
-<h2 align="center"> EXPERIENCE </h2>
+## EXPERIENCE 
 #### AUTHOR/DIGITAL PUBLISHER						 
 Jan. 2018 - Present
 
@@ -30,7 +30,7 @@ Community Employment Services
 * Documented client progress toward ISP goals through daily reports
 
 
-<h2 align="center"> EDUCATION </h2>
+## EDUCATION
 #### Bachelor of Arts, Technocultural Studies	                                                          		
 2015  
 University of California, Davis	
@@ -38,7 +38,7 @@ University of California, Davis
          			               			    
 
 
-<h2 align="center"> CERTIFICATIONS & SKILLS </h2>
+## CERTIFICATIONS & SKILLS
 **Certifications:** Introduction to DITA _(from LearningDITA.com)_
 
 **Skills:** Writing, editing, project management, research, HTML, XML, markdown, Git, graphic design, Microsoft Office Suite
