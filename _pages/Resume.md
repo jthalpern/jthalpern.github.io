@@ -2,13 +2,14 @@
 permalink: /resume/
 title: "Resume"
 ---
-# EXPERIENCE
+## EXPERIENCE
 
-**AUTHOR/DIGITAL PUBLISHER						 **Jan. 2018 - Present
+###AUTHOR/DIGITAL PUBLISHER						 
+Jan. 2018 - Present
 
 Self-employed					    	         				          
 
-_Operated a business publishing novels in the Amazon Kindle store. Responsible for the end-to-end process of research, writing, editing, formatting, and marketing, resulting in over $350,000 in book sales and multiple top-1,000 US releases._
+*Operated a business publishing novels in the Amazon Kindle store. Responsible for the end-to-end process of research, writing, editing, formatting, and marketing, resulting in over $350,000 in book sales and multiple top-1,000 US releases.*
 
 
 
@@ -20,11 +21,12 @@ _Operated a business publishing novels in the Amazon Kindle store. Responsible f
 * Operated a mailing list with open rates 25% above the industry average, maintaining a consistent authorial tone tailored to its audience
 * Handled all graphic design work, including book covers, interior images, and merchandise
 
-**SUPPORT FACILITATOR							 **Jan. 2016 - Jan. 2018
+###SUPPORT FACILITATOR							 
+Jan. 2016 - Jan. 2018
 
 Community Employment Services
 
-_Provided employment support for individuals with developmental disabilities_
+*Provided employment support for individuals with developmental disabilities*
 
 
 
@@ -32,18 +34,19 @@ _Provided employment support for individuals with developmental disabilities_
 * Documented client progress toward ISP goals through daily reports
 
 
-# EDUCATION
+## EDUCATION
 
-**Bachelor of Arts, Technocultural Studies	                                                          		**2015
+###Bachelor of Arts, Technocultural Studies	                                                          		
+2015
 
 University of California, Davis	
 
          			               			    
 
 
-# CERTIFICATIONS, SKILLS, AND INTERESTS
+## CERTIFICATIONS, SKILLS, AND INTERESTS
 
-**Certifications: **Introduction to DITA _(from LearningDITA.com)_
+**Certifications:** Introduction to DITA _(from LearningDITA.com)_
 
 **Skills:** Writing, editing, project management, research, HTML, XML, markdown, Git, graphic design, Microsoft Office Suite
 
