@@ -38,9 +38,7 @@ University of California, Davis
          			               			    
 
 
-<h2 align="center"> CERTIFICATIONS, SKILLS, AND INTERESTS </h2>
+<h2 align="center"> CERTIFICATIONS & SKILLS </h2>
 **Certifications:** Introduction to DITA _(from LearningDITA.com)_
 
 **Skills:** Writing, editing, project management, research, HTML, XML, markdown, Git, graphic design, Microsoft Office Suite
-
-**Interests:** Technology, history and prehistory, film, experimental music, gardening
