@@ -76,7 +76,7 @@ It’s all up to you, and you have the freedom to rearrange things at any time.
 
 |![Chapter folders w/ parts](\assets\images\Scriv tut\image5a.png)|![Chapter folders](\assets\images\Scriv tut\image5b.png)|![Chapter documents](\assets\images\Scriv tut\image5c.png)|
 |:-:|:-:|:-:|
-|_Chapter folders w/ parts_|_Chapter folders_|_Chapter documents_|
+|*Chapter folders w/ parts*|*Chapter folders*|*Chapter documents*|
 
 
 For now, feel free to ignore the other items in the binder (Characters, Places, etc.) These are resources you can use, but they are not a part of your book, and can be deleted if desired. Only documents contained within the “Manuscript” folder are included in your finished work. 
@@ -89,7 +89,7 @@ For now, feel free to ignore the other items in the binder (Characters, Places, 
 Now you’re ready to write! You’ll notice that when you select a document in the binder, the main area of the screen turns into a blank, white page. To start typing, all you have to do is click the center of the screen. You can also press F11 to enter “composition mode,” which is a full-screen view of your document.
 
 
-![This is where you write your book](\assets\images\Scriv tut\image6.png "image_tooltip")
+![This is where you write your book](\assets\images\Scriv tut\image6.png)
 
 
 You can change the font settings, but it isn’t necessary. You’re producing a manuscript, not a finished product. All the fancy formatting will take place later, in a different program. At this stage, restrict your formatting to italicizing words and styling any headings as “Heading 2”.
@@ -121,7 +121,7 @@ Finishing your project in Scrivener is a little more complicated than in a stand
 Open the compiler by pressing Ctrl+Shift+E.
 
 
-![The compiler](\assets\images\Scriv tut\image8.png "image_tooltip")
+![The compiler](\assets\images\Scriv tut\image8.png)
 
 
 First, at the top of the screen, make sure “Compile For:” is set to “Microsoft Word (.docx).” Scrivener can compile other formats, but .docx is ideal for importing into formatting software.
@@ -159,7 +159,7 @@ This Scene layout will show only the text contained within the corresponding doc
 
 There’s a good chance you’ll be happy with the defaults, but you may want to make a change (for instance, if your chapters do not have titles.) To do that, click “Assign Section Layouts” at the bottom of the compiler window. 
 
-![Assign section layouts](\assets\images\Scriv tut\image10.png "image_tooltip")
+![Assign section layouts](\assets\images\Scriv tut\image10.png)
 
 Here, you can scroll through all the available layouts and pick the one that best suits your needs. Some layouts display only a heading, some only body text, and some display both. 
 
@@ -187,7 +187,7 @@ But if your binder is organized like ***example B***, where a chapter-folder con
 To accomplish this, right-click on the “Modern” format in the compiler window and select “Duplicate & Edit Format.”
 
 
-![Duplicate & Edit Format](\assets\images\Scriv tut\image12.png "image_tooltip")
+![Duplicate & Edit Format](\assets\images\Scriv tut\image12.png)
 
 
 From the bar on the left, select “Separators,” then under Section Layouts, select “Section Text.” Finally, under “Separator between sections,” choose “Custom” from the dropdown menu and enter three asterisks for the custom text.
