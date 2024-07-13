@@ -20,7 +20,6 @@ Jan. 2018 - Present
 
 ##### SUPPORT FACILITATOR							 
 Jan. 2016 - Jan. 2018
-
 Community Employment Services
 
 *Provided employment support for individuals with developmental disabilities*
