@@ -2,7 +2,6 @@
 permalink: /resume/
 title: "Resume"
 ---
-## EXPERIENCE 
 #### Author/Digital Publisher						 
 Jan. 2018 - Present
 
