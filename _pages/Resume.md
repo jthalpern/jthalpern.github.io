@@ -3,7 +3,7 @@ permalink: /resume/
 title: "Resume"
 ---
 ## EXPERIENCE
-
+---
 #### AUTHOR/DIGITAL PUBLISHER						 
 Jan. 2018 - Present
 
@@ -35,7 +35,7 @@ Community Employment Services
 
 
 ## EDUCATION
-
+---
 #### Bachelor of Arts, Technocultural Studies	                                                          		
 2015
 
@@ -45,7 +45,7 @@ University of California, Davis
 
 
 ## CERTIFICATIONS, SKILLS, AND INTERESTS
-
+---
 **Certifications:** Introduction to DITA _(from LearningDITA.com)_
 
 **Skills:** Writing, editing, project management, research, HTML, XML, markdown, Git, graphic design, Microsoft Office Suite
