@@ -1,6 +1,6 @@
 ---
 permalink: /resume/
-title: "RESUME"
+title: "Resume"
 ---
 <h2 align="center"> EXPERIENCE </h2>
 #### AUTHOR/DIGITAL PUBLISHER						 
