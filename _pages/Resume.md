@@ -33,7 +33,6 @@ Community Employment Services
 ## EDUCATION
 #### Bachelor of Arts, Technocultural Studies	                                                          		
 2015
-
 University of California, Davis	
 
          			               			    
