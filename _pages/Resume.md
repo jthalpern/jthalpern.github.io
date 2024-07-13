@@ -2,7 +2,7 @@
 permalink: /resume/
 title: "RESUME"
 ---
-## EXPERIENCE
+<h2 align="center"> EXPERIENCE </h2>
 #### AUTHOR/DIGITAL PUBLISHER						 
 Jan. 2018 - Present
 
@@ -38,7 +38,7 @@ University of California, Davis
          			               			    
 
 
-## CERTIFICATIONS, SKILLS, AND INTERESTS
+<h2 align="center"> CERTIFICATIONS, SKILLS, AND INTERESTS </h2>
 **Certifications:** Introduction to DITA _(from LearningDITA.com)_
 
 **Skills:** Writing, editing, project management, research, HTML, XML, markdown, Git, graphic design, Microsoft Office Suite
