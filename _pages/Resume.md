@@ -41,4 +41,4 @@ University of California, Davis
 ## CERTIFICATIONS & SKILLS
 **Certifications:** Introduction to DITA _(from LearningDITA.com)_
 
-**Skills:** Writing, editing, project management, research, HTML, XML, markdown, Git, graphic design, Microsoft Office Suite
+**Skills:** Writing, editing, project management, research, HTML, XML, markdown, Git, graphic design
