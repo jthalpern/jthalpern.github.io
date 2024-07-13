@@ -2,19 +2,6 @@
 permalink: /resume/
 title: "Resume"
 ---
-# Jordan Halpern
-
-** \
-**TECHNICAL WRITER ◆ DIGITAL PUBLISHING EXPERT
-
-**Davis, CA | (530) 264-6163 | jordanthalpern@gmail.com |[linkedin.com/in/jordan-halpern](linkedin.com/in/jordan-halpern)**
-
-
-# PORTFOLIO
-
-**jthalpern.github.io/portfolio**
-
-
 # EXPERIENCE
 
 **AUTHOR/DIGITAL PUBLISHER						 **Jan. 2018 - Present
