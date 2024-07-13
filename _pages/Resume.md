@@ -19,7 +19,7 @@ Jan. 2018 - Present
 * Handled all graphic design work, including book covers, interior images, and merchandise
 
 ##### SUPPORT FACILITATOR							 
-Jan. 2016 - Jan. 2018
+Jan. 2016 - Jan. 2018  
 Community Employment Services
 
 *Provided employment support for individuals with developmental disabilities*
@@ -32,7 +32,7 @@ Community Employment Services
 
 ## EDUCATION
 #### Bachelor of Arts, Technocultural Studies	                                                          		
-2015
+2015  
 University of California, Davis	
 
          			               			    
