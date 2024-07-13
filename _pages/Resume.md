@@ -3,7 +3,7 @@ permalink: /resume/
 title: "RESUME"
 ---
 ## EXPERIENCE
-**AUTHOR/DIGITAL PUBLISHER**						 
+#### AUTHOR/DIGITAL PUBLISHER						 
 Jan. 2018 - Present
 
 *Operated a business publishing novels in the Amazon Kindle store. Responsible for the end-to-end process of research, writing, editing, formatting, and marketing, resulting in over $350,000 in book sales and multiple top-1,000 US releases.*
@@ -18,7 +18,7 @@ Jan. 2018 - Present
 * Operated a mailing list with open rates 25% above the industry average, maintaining a consistent authorial tone tailored to its audience
 * Handled all graphic design work, including book covers, interior images, and merchandise
 
-**SUPPORT FACILITATOR**
+##### SUPPORT FACILITATOR							 
 Jan. 2016 - Jan. 2018  
 Community Employment Services
 
@@ -31,7 +31,7 @@ Community Employment Services
 
 
 ## EDUCATION
-**Bachelor of Arts, Technocultural Studies**                            		
+#### Bachelor of Arts, Technocultural Studies	                                                          		
 2015  
 University of California, Davis	
 
