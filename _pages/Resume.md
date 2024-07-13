@@ -1,6 +1,6 @@
 ---
 permalink: /resume/
-title: "Resume"
+title: "RESUME"
 ---
 ## EXPERIENCE
 #### AUTHOR/DIGITAL PUBLISHER						 
@@ -31,7 +31,7 @@ Community Employment Services
 
 
 ## EDUCATION
-#### Bachelor of Arts, Technocultural Studies	                                                          		
+**Bachelor of Arts, Technocultural Studies**                            		
 2015  
 University of California, Davis	
 
