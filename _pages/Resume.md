@@ -5,7 +5,7 @@ title: "Resume"
 #### Author/Digital Publisher						 
 Jan. 2018 - Present
 
-*Operated a business publishing novels in the Amazon Kindle store. Responsible for the end-to-end process of research, writing, editing, formatting, and marketing, resulting in over $350,000 in book sales and multiple top-1,000 US releases.*
+*Operated a business publishing novels in the Amazon Kindle store. Responsible for the end-to-end process of research, writing, editing, formatting, and marketing, resulting in over $350,000 in book sales and multiple top-1,000 US releases*
 
 
 
