@@ -1,7 +1,7 @@
 main:
-  - title: "Portfolio"
+  - title: "PORTFOLIO"
     url: /portfolio/
-  - title: "Resume"
+  - title: "RESUME"
     url: /resume/
-  - title: "About Me"
+  - title: "ABOUT ME"
     url: /
