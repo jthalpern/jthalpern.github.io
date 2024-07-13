@@ -30,7 +30,7 @@ Community Employment Services
 * Documented client progress toward ISP goals through daily reports
 
 
-## EDUCATION
+<h2 align="center"> EDUCATION </h2>
 #### Bachelor of Arts, Technocultural Studies	                                                          		
 2015  
 University of California, Davis	
