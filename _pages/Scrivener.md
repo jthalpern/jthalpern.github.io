@@ -56,7 +56,7 @@ Let’s take a closer look:
 <p style="font-size:.875em;"> <em> Folders are distinguishable from documents by their blue icons and <b>bolded</b> text. </em></p>
 
 
-At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have arrows next to them. This indicates that they are folders containing other items. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.”
+At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have little arrows to the left of them. This indicates that they are folders containing other items. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.”
 
 This hierarchy is the basic way you will organize your book, and it is highly customizable. The default setup suggests a folder for each chapter, with documents inside for each scene. To start a second chapter, you simply create a second folder and place your *Chapter Two* documents inside it.
 
