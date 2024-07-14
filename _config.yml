@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Jordan Halpern"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "jordanthalpern@gmail.com"
+  bio    : Over 1,000,000 words published <br> "jordanthalpern@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
