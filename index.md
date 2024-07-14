@@ -3,8 +3,5 @@ layout: single
 title: "About Me"
 excerpt: "Jordan Halpern's portfolio."
 author_profile: true
-[Portfolio]: /portfolio/
-[Resume]: /resume/
-[About]: /about/
 ---
-Welcome to my site! You can check out my [portfolio][portfolio], read my [resume][resume], or go [here][about] to learn the little more about me. 
+Welcome to my site! You can check out my [portfolio](/_pages/Scrivener.mdportfolio], read my [resume](/_pages/Resume.md), or go [here](/_pages/About.md) to learn the little more about me. 
