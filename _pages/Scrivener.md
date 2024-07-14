@@ -58,7 +58,7 @@ Let’s take a closer look:
 
 At the top is the “Manuscript” item. This is the overarching folder that contains your entire book. As you can see, both “Manuscript” and “Chapter” have arrows next to them. This indicates that they are folders containing other items. The document “Scene” is contained within the “Chapter” folder, which is itself contained within “Manuscript.”
 
-This hierarchy is the basic way you will organize your book, and it is highly customizable. The default setup suggests a folder for each chapter, with documents inside for each scene (you can think “section” instead of “scene” if you’re writing nonfiction). To start a second chapter, you simply create a second folder and place your *Chapter Two* documents inside it.
+This hierarchy is the basic way you will organize your book, and it is highly customizable. The default setup suggests a folder for each chapter, with documents inside for each scene. To start a second chapter, you simply create a second folder and place your *Chapter Two* documents inside it.
 
 That’s the most standard setup, but your options are infinite. For instance, if you had selected “Novel (with parts)” as your project template, your “Chapter” folder would be contained within a “Part” folder. You can also avoid folders entirely, and simply place a document for each chapter directly inside of “Manuscript.” 
 
