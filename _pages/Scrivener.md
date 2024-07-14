@@ -12,7 +12,7 @@ toc: true
 
 <p style="font-size:.875em;"><b>Intended audience:</b> Independent authors, who are likely tech-savvy enough to perform basic computer tasks like installing the program, but may otherwise be overwhelmed by Scrivener's complex features and interface.</p>
 
-You can scroll to read the guide below, or if you prefer a PDF, you can download it [**here.**](/assets/Scrivener%20Quick-Start%20Guide%20for%20Windows.pdf)
+You can scroll to read the guide below, or you can click [**here**](/assets/Scrivener%20Quick-Start%20Guide%20for%20Windows.pdf) to download a PDF.
 {: .notice--info}
 
 
