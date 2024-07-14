@@ -11,4 +11,4 @@ My interest in technical writing started before I even had a name for it, when I
 **Fun facts:**
 * I'm a big history nerd
 * I directed short films in high school and college
-* I once got caught in a thunderstorm on the rim of the Grand canyon. Went quickly from a pretty sunset to pouring rain and lightning all around us. Scary at the time, but a 10/10 memory. 
+* I once got caught in a thunderstorm on the rim of the Grand canyon. It quickly escalated from a pretty sunset to pouring rain and lightning all around us. Scary at the time, but a 10/10 memory. 
