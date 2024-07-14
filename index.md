@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Jordan Halpern's Portfolio Site"
 author_profile: true
 ---
