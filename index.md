@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About Me"
+title: "Jordan Halpern's technical writing portfolio site"
 excerpt: "Jordan Halpern's portfolio."
 author_profile: true
 ---
