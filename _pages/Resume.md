@@ -9,7 +9,7 @@ Jan. 2018 - Present
 
 
 
-* Managed the complete lifecycle of 12 novels, totalling over 600,000 words, from initial concept to final publication, while meeting 100% of deadlines
+* Managed the complete lifecycle of 12 novels, totaling over 600,000 words, from initial concept to final publication, while meeting 100% of deadlines
 * Maintained version control over manuscripts, coordinating with beta readers to make revisions and implement feedback before final publication
 * Designed and maintained a website for readers
 * Used HTML to format Amazon sales descriptions
