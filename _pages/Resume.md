@@ -11,7 +11,7 @@ Jan. 2018 - Present
 
 * Managed the complete lifecycle of 12 novels, totaling over 600,000 words, from initial concept to final publication, while meeting 100% of publishing deadlines
 * Maintained version control over manuscripts, coordinating with beta readers to make revisions and implement feedback before final publication
-* Designed and maintained a website for readers
+* Designed and maintained a website for readers with integrated merch store
 * Used HTML to format Amazon sales descriptions
 * Formatted novel interiors for both eBook and print
 * Operated a mailing list with open rates 25% above the industry average, maintaining a consistent authorial tone tailored to its audience
