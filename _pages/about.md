@@ -4,7 +4,7 @@ title: "About Me"
 ---
 Hi! My name is Jordan Halpern, and I live in northern California.
 
-My interest in technical writing started before I even had a name for it, when I was asked to document operating and troubleshooting a mechanical button machine at an old job. I've been writing professionally for the last 6 years as an independent author, and now I'm excited to be transitioning into technical writing. As a communicator, there is nothing more satisfying to me than figuring out how to express a complicated idea simply and effectively.
+My interest in technical writing started before I even had a name for it, when I was asked to document operating and troubleshooting a mechanical button machine at an old job. I've been writing professionally for the last 6 years as an independent author, and now I'm excited to be transitioning into technical writing. As a communicator, there is nothing more satisfying to me than taking a complicated idea and figuring out how to express it simply and effectively.
 
 **Things I love:** learning, the outdoors, pizza
 
