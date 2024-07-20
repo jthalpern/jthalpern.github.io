@@ -16,6 +16,7 @@ Jan. 2018 - Present
 * Formatted novel interiors for both eBook and print
 * Operated a mailing list with open rates 25% above the industry average, maintaining a consistent authorial tone tailored to its audience
 * Handled all graphic design work, including book covers, interior images, and merchandise
+* Collaborated with narrators to produce audiobooks
 
 ##### Support Facilitator							 
 Jan. 2016 - Jan. 2018  
