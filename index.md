@@ -15,5 +15,3 @@ You can check out my [**portfolio**](/portfolio/), read my [**resume**](/resume/
 Lastly, [**this page**](/why/) has a quick list of reasons why I might be a good fit for your organization.
 
 Thanks for stopping by!
-
-—Jordan
