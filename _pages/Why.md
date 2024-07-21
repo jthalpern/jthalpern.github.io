@@ -11,7 +11,7 @@ The world of independent publishing is extremely fast-paced. My first book (37K 
 
 
 #### I'm a fast and self-directed learner, very capable of picking up new skills, software, style guides, etc. quickly
-I taught myself how to build this website. My ability to quickly learn new skills, tools, and concepts has been essential to my success in publishing. This adaptability means I can hit the ground running in just about any work or software environment.
+I taught myself how to build this website. My ability to quickly learn new skills, tools, and concepts has been essential to my success in publishing. This adaptability means I can hit the ground running in just about any software environment.
 
 
 #### I'm extremely capable of working independently, but I also love to collaborate 
