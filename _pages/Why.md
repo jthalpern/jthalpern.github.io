@@ -15,4 +15,4 @@ I taught myself how to build this website. My ability to quickly learn new skill
 
 
 #### I'm extremely capable of working independently, but I also know how to collaborate 
-I'm used to being productive, prioritizing tasks, and completing projects in a self-directed way. That said, I also have experience collaborating with team members such as beta readers, audiobook narrators, and various other stakeholders. 
+I'm used to being productive, prioritizing tasks, and completing projects in a self-directed way. I also have experience collaborating with team members such as beta readers, audiobook narrators, and various other stakeholders. I'm comfortable with whatever level of collaboration or independence the job calls for. 
