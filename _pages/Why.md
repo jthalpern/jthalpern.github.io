@@ -14,5 +14,5 @@ The world of digital publishing is extremely fast-paced. My first book (37K word
 I taught myself how to build this website. My ability to quickly learn new skills, tools, and concepts has been essential to my success in publishing. This adaptability means I can hit the ground running in just about any work or software environment.
 
 
-#### I'm extremely capable of working independently, but I also know how to collaborate 
-I'm used to being productive, prioritizing tasks, and completing projects in a self-directed way. I also have experience collaborating with team members such as beta readers, audiobook narrators, and various other stakeholders. I'm comfortable with whatever level of collaboration or independence the job calls for. 
+#### I'm extremely capable of working independently, but I also love to collaborate 
+I'm used to being productive, prioritizing tasks, and completing projects in a self-directed way. I'm also experienced collaborating with team members such as beta readers, audiobook narrators, and various other stakeholders. 
