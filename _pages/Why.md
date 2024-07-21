@@ -10,7 +10,7 @@ I'm not just a writer. I bring over 6 years' experience helming a successful pub
 The world of digital publishing is extremely fast-paced. My first book (37K words) went from concept to publication in under a month. I am very experienced managing multiple, complex projects, and doing it all on time.
 
 
-#### I'm a fast and self-directed learner, very capable of quickly picking up new skills, software, style guides, etc. 
+#### I'm a fast and self-directed learner, very capable of picking up new skills, software, style guides, etc. quickly
 I taught myself how to build this website. My ability to quickly learn new skills, tools, and concepts has been essential to my success in publishing. This adaptability means I can hit the ground running in just about any work or software environment.
 
 
