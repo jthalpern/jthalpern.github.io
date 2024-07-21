@@ -5,3 +5,5 @@ main:
     url: /resume/
   - title: "About Me"
     url: /about/
+  - title: "Why You Should Hire Me"
+    url: /why/
