@@ -7,7 +7,7 @@ I'm not just a writer. I bring over 6 years' experience helming a successful pub
 
 
 #### I know how to manage projects, juggle multiple priorities, and meet deadlines 
-The world of digital publishing is extremely fast-paced. My first book (37K words) went from concept to publication in under a month, followed by four interconnected sequels written and published at the same pace. I am very experienced managing multiple, complex projects, and doing it all on time.
+The world of independent publishing is extremely fast-paced. My first book (37K words) went from concept to publication in under a month, followed by four interconnected sequels written and published at the same pace. I am very experienced managing multiple, complex projects, and doing it all on time.
 
 
 #### I'm a fast and self-directed learner, very capable of picking up new skills, software, style guides, etc. quickly
