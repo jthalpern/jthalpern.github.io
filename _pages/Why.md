@@ -3,7 +3,7 @@ permalink: /why/
 title: "Why You Should Hire Me"
 ---
 #### I have experience running a business, and I know that my work fits into a bigger picture 
-I'm not just a writer. I bring over 6 years' experience helming a successful publishing business, performing every role from accounting, to copywriting, to conducting market research and creating customer avatars. I understand the bigger picture, and the importance of aligning my work with organizational goals.
+I'm not just a writer. I bring over 6 years' experience helming a successful publishing business, performing every role from copywriting, to web design, to conducting market research and creating customer avatars. I understand the bigger picture, and the importance of aligning my work with organizational goals.
 
 
 #### I know how to manage projects, juggle multiple priorities, and meet deadlines 
