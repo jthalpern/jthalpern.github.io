@@ -67,5 +67,6 @@ University of California, Davis
 
 * Google Analytics Certification (2024) 
 * Introduction to DITA _(from LearningDITA.com)_
+* Completed Google's two-part Technical Writing course (course does not award certifications)
 
 **Skills:** Writing, editing, project management, research, HTML, XML, markdown, Git, graphic design, marketing, copywriting, Microsoft Office Suite, Adobe Creative Suite
