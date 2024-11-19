@@ -63,6 +63,6 @@ University of California, Davis
 
 
 ## CERTIFICATIONS & SKILLS
-**Certifications:** Introduction to DITA _(from LearningDITA.com)_
+**Certifications:** Google Analytics Certification (2024), Introduction to DITA _(from LearningDITA.com)_
 
-**Skills:** Writing, editing, project management, research, HTML, XML, markdown, Git, graphic design
+**Skills:** Writing, editing, project management, research, HTML, XML, markdown, Git, graphic design, marketing, copywriting, Microsoft Office Suite, Adobe Creative Suite
