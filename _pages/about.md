@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About Me"
 ---
+![bio photo](C:\Users\jorda\Documents\GitHub\jthalpern.github.io\assets\images\bio-photo.jpeg)
 Hi! My name is Jordan Halpern, and I live in northern California.
 
 Since 2018, I have independently built and managed a successful digital publishing business, writing, editing, and publishing more than a dozen novels under various pen names—several of which have reached the top 500 bestsellers on Amazon. Beyond storytelling, I have driven my books' success through strategic marketing, including graphic design, copywriting, PPC advertising, and email campaigns. From concept to completion, I oversee every step of the publishing process, from designing the covers to formatting the finished manuscripts.
@@ -9,7 +10,10 @@ Since 2018, I have independently built and managed a successful digital publishi
 Moving forward in my career, I’m looking to transition from self-employment into a full-time role where my expertise and strong work ethic can contribute to an organization's success.
 
 
-**Things I love:** movies, spending time outdoors, pizza
+**Things I love:** 
+* movies 
+* spending time outdoors
+* pizza
 
 **Fun facts:**
 * I'm a big history nerd
