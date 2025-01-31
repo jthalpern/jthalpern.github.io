@@ -11,9 +11,9 @@ Moving forward in my career, I’m looking to transition from self-employment in
 
 
 **Things I love:** 
-* movies 
-* spending time outdoors
-* pizza
+* Movies 
+* Spending time outdoors
+* Pizza
 
 **Fun facts:**
 * I'm a big history nerd
