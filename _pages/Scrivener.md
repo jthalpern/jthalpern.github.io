@@ -1,7 +1,7 @@
 ---
-title: "Portfolio"
+title: "Technical Writing Portfolio"
 layout: single
-permalink: /portfolio/
+permalink: /technicalwriting/
 author_profile: true
 toc: true
 ---
