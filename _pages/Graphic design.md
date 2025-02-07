@@ -8,9 +8,12 @@ toc: true
 
 In this portfolio, I am showcasing graphic design work that I've done for the Luna Voss romance author brand. 
 
+![logo](\assets\images\Graphic design\LV logo.jpg)
+
+
 ## Typography and photo bashing
 
-Here are four book covers that I designed, including layouts and typography. The first three were created from stock photos, and the fourth from a mixture of stock photos and custom AI assets. 
+Here are four book covers I designed, including layouts and typography. The first three were created from stock photos, and the fourth from a mixture of stock photos and custom AI assets. 
 
 ![Four book covers](\assets\images\Graphic design\four books.jpg)
 
