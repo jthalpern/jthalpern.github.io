@@ -47,6 +47,3 @@ Amazon allows what is called "A+" content on product pages. Here are some that I
 And this is a website banner intended for linking to the Amazon product page:
 
 ![A+ example 1A](\assets\images\Graphic design\product shot.png)
-
-
-
