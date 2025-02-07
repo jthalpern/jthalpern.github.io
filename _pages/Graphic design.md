@@ -48,4 +48,4 @@ And this is a website banner intended for linking to the Amazon product page:
 
 ![A+ example 1A](\assets\images\Graphic design\product shot.png)
 
-To see examples of my merchandise design (hats, T-shirts, mugs, etc.), you can visit the Luna Voss Official Merch store: **https://merch.lunavoss.com/**
+To see examples of my merchandise design (hats, T-shirts, mugs, etc.), you can visit the **[Luna Voss Official Merch store](https://merch.lunavoss.com/)**
