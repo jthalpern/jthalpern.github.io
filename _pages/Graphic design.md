@@ -34,7 +34,7 @@ Amazon allows what is called "A+" content on product pages. Here are some that I
 
 ## Advertisments 
 
-This is an ad I created for BookBub, a PPC advertising platform that is common in the publishing  world. It achieved an impressive click-through rate of nearly 5% at a time when 2-3% was considered good.
+This is an ad I created for BookBub, a PPC advertising platform that is common in the publishing  world. It achieved an impressive click-through rate of nearly 5% at a time when 2-3% was considered very good.
 
 ![BookBub ad](\assets\images\Graphic design\bb ad.png)
 
