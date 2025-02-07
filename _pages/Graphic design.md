@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-In this portfolio, I am showcasing graphic design work that I've done for the Luna Voss romance author brand. 
+In this portfolio, I am showcasing graphic design work that I've created for the Luna Voss romance author brand. 
 
 ![logo](\assets\images\Graphic design\LV logo.png)
 
