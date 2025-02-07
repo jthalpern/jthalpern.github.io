@@ -28,7 +28,7 @@ Here is my design for a paperback, compared to the printed version:
 
 ## Advertisments 
 
-This is an ad I created for BookBub, a PPC advertising platform that is common in the publishing  world. It achieved an impressive click-through rate of nearly 5% at a time when 2-3% was considered very good.
+This is an ad I created for BookBub, a PPC advertising platform common in the publishing  world. It achieved an impressive click-through rate of nearly 5% at a time when 2-3% was considered very good.
 
 ![BookBub ad](\assets\images\Graphic design\bb ad.jpg)
 
