@@ -1,5 +1,7 @@
 main:
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Technical Writing"
+    url: /technicalwriting/
+  - title: "Graphic design"
+    url: /graphicdesign/
   - title: "About Me"
     url: /about/
