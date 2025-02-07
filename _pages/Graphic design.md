@@ -10,18 +10,18 @@ I am presenting here graphic design work that I've done for the Luna Voss romanc
 
 ![Four book covers](\assets\images\Graphic design\four books.jpg)
 
-<img src="\assets\images\Graphic design\four books.jpg" alt="Example A">
-
 All four novels reached the top 1,000 of the US Kindle store, with two of them reaching the top 500. 
 
 Here is my design for a paperback, compared to the printed version:
 
-![Paperback design](\assets\images\Graphic design\aperback.jpg)
+![Paperback design](\assets\images\Graphic design\paperback.jpg)
 ![Paperback photo](\assets\images\Graphic design\paperback photo.jpg)
 
 Amazon allows what is called "A+" content on product pages. Here are some that I've designed:
 ![A+ example 1A](\assets\images\Graphic design\ca1.jpg)
+
 ![A+ example 1B](\assets\images\Graphic design\ca2.jpg)
-![A+ example 2](\assets\images\Graphic design\a1.jpg)
+
+![A+ example 2](\assets\images\Graphic design\a1.png)
 
 
