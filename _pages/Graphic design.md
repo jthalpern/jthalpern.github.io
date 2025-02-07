@@ -17,3 +17,9 @@ Here is my design for a paperback, compared to the printed version:
 ![Paperback design](assets\images\Graphic design\Paperback.jpg)
 ![Paperback photo](assets\images\Graphic design\Paperback photo.jpg)
 
+Amazon allows what is called "A+" content on product pages. Here are some that I've designed:
+![A+ example 1](assets\images\Graphic design\A+ Vostra.jpg)
+![A+ example 2A](assets\images\Graphic design\A+ CA 1.jpg)
+![A+ example 2B](assets\images\Graphic design\A+ CA 2.jpg)
+
+
