@@ -14,8 +14,8 @@ All four novels reached the top 1,000 of the US Kindle store, with two of them r
 
 Here is my design for a paperback, compared to the printed version:
 
-![Paperback design](assets\images\Graphic design\Paperback.jpg)
-![Paperback photo](assets\images\Graphic design\Paperback photo.jpg)
+![Paperback design](assets\images\Graphic design\aperback.jpg)
+![Paperback photo](assets\images\Graphic design\paperback photo.jpg)
 
 Amazon allows what is called "A+" content on product pages. Here are some that I've designed:
 ![A+ example 1A](assets\images\Graphic design\ca1.jpg)
