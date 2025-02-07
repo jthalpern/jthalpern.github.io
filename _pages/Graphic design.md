@@ -8,7 +8,7 @@ toc: true
 
 I am presenting here graphic design work that I've done for the Luna Voss romance author brand. 
 
-## Complex design including typography
+## Typography and photo bashing
 
 Here are four book covers that I designed, including layouts and typography. The first three were created from stock photos, and the fourth from a mixture of stock photos and custom AI assets. 
 
@@ -41,7 +41,7 @@ Amazon allows what is called "A+" content on product pages. Here are some that I
 ![A+ example 2B](\assets\images\Graphic design\ca2.jpg)
 
 This is a website banner intended for linking to the product page:
-![A+ example 1A](\assets\images\Graphic design\ca1.jpg)
+![A+ example 1A](\assets\images\Graphic design\product shot.png)
 
 
 
