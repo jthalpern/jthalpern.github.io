@@ -37,13 +37,14 @@ This is an ad I created for BookBub, a pay-per-click advertising platform common
 ## Web assets
 
 Amazon allows what is called "A+" content on product pages. Here are some that I've designed:
+
 ![A+ example 1](\assets\images\Graphic design\a1.png)
 
 ![A+ example 2A](\assets\images\Graphic design\ca1.jpg)
 
 ![A+ example 2B](\assets\images\Graphic design\ca2.jpg)
 
-This is a website banner intended for linking to the product page:
+And this is a website banner intended for linking to the Amazon product page:
 
 ![A+ example 1A](\assets\images\Graphic design\product shot.png)
 
