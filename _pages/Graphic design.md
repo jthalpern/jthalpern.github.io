@@ -10,6 +10,8 @@ I am presenting here graphic design work that I've done for the Luna Voss romanc
 
 ![Four book covers](assets\images\Graphic design\Four covers.jpg)
 
+<img src="assets\images\Graphic design\Four covers.jpg" alt="Four book covers">
+
 All four novels reached the top 1,000 of the US Kindle store, with two of them reaching the top 500. 
 
 Here is my design for a paperback, compared to the printed version:
