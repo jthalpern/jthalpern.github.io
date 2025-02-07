@@ -14,5 +14,6 @@ All four novels reached the top 1,000 of the US Kindle store, with two of them r
 
 Here is my design for a paperback, compared to the printed version:
 
-<img align="left" width="49%" src="\assets\images\Graphic design\Paperback.jpg" alt="Paperback design">
-<img align="right" width="49%" src="\assets\images\Graphic design\Paperback photo.jpg" alt="Paperback photo">
+![Paperback design](assets\images\Graphic design\Paperback.jpg)
+![Paperback photo](assets\images\Graphic design\Paperback photo.jpg)
+
