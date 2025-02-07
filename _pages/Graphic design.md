@@ -3,7 +3,7 @@ title: "Graphic Design portfolio"
 layout: single
 permalink: /graphicdesign/
 author_profile: true
-toc: false
+toc: true
 ---
 
 I am presenting here graphic design work that I've done for the Luna Voss romance author brand. 
@@ -23,15 +23,6 @@ Here is my design for a paperback, compared to the printed version:
 ![Paperback design](\assets\images\Graphic design\paperback.jpg)
 ![Paperback photo](\assets\images\Graphic design\paperback photo.jpg)
 
-## Web assets
-
-Amazon allows what is called "A+" content on product pages. Here are some that I've designed:
-![A+ example 1A](\assets\images\Graphic design\ca1.jpg)
-
-![A+ example 1B](\assets\images\Graphic design\ca2.jpg)
-
-![A+ example 2](\assets\images\Graphic design\a1.png)
-
 ## Advertisments 
 
 This is an ad I created for BookBub, a PPC advertising platform that is common in the publishing  world. It achieved an impressive click-through rate of nearly 5% at a time when 2-3% was considered very good.
@@ -39,6 +30,18 @@ This is an ad I created for BookBub, a PPC advertising platform that is common i
 ![BookBub ad](\assets\images\Graphic design\bb ad.jpg)
 
 ![BookBub ad statistics](\assets\images\Graphic design\bb dash.png)
+
+## Web assets
+
+Amazon allows what is called "A+" content on product pages. Here are some that I've designed:
+![A+ example 1](\assets\images\Graphic design\a1.png)
+
+![A+ example 2A](\assets\images\Graphic design\ca1.jpg)
+
+![A+ example 2B](\assets\images\Graphic design\ca2.jpg)
+
+This is a website banner intended for linking to the product page:
+![A+ example 1A](\assets\images\Graphic design\ca1.jpg)
 
 
 
