@@ -18,3 +18,6 @@ Here is my design for a paperback, compared to the printed version:
 <img align="right" width="49%" src="\assets\images\Graphic design\paperback photo.jpg" alt="Paperback photo">
 
 ![The binder](\assets\images\Scriv tut\image2.png)
+
+
+![The binder](assets\images\Graphic design\BB dashboard.png)
