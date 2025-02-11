@@ -36,7 +36,7 @@ This is an ad I created for BookBub, a pay-per-click advertising platform common
 
 ## Web assets
 
-Amazon allows what is called "A+" content on product pages. Here are some that I've designed:
+Amazon allows what is called "A+" content on product pages. Here is some A+ content that I've designed:
 
 ![A+ example 1](\assets\images\Graphic design\a1.png)
 
