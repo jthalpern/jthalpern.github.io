@@ -28,7 +28,7 @@ Here is my design for a paperback, compared to the printed version:
 
 ## Advertisments 
 
-This is an ad I created for BookBub, a pay-per-click advertising platform common in the publishing  world. It achieved an impressive click-through rate of nearly 5% at a time when 2-3% was considered very good. This high CTR allowed the ad to garner thousands of high-converting clicks at the unusually cheap price of $0.24 per click.
+This ad was created for BookBub, a pay-per-click advertising platform common in the publishing  world. It achieved an impressive click-through rate of nearly 5% at a time when 2-3% was considered very good. This high CTR allowed the ad to garner thousands of high-converting clicks at the unusually cheap price of $0.24 per click.
 
 ![BookBub ad statistics](\assets\images\Graphic design\bb dash.png)
 
