@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Me"
 ---
 
-Hi! My name is Jordan Halpern, and I'm a communications professiona living Northern California.
+Hi! My name is Jordan Halpern, and I'm a communications professional living Northern California.
 
 Since 2018, I have independently built and managed a successful digital publishing business, where I have written, edited, and published more than a dozen novels under various pen names—several of which became top-500 bestsellers on Amazon. Beyond storytelling, I have driven my books' success through strategic marketing, including graphic design, copywriting, PPC advertising, and email campaigns. From concept to completion, I oversee every step of the publishing process, from designing the covers to formatting the finished manuscripts.
 
